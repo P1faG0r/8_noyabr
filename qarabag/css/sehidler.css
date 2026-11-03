@@ -1,0 +1,153 @@
+/* ===== Şəhidlər bölməsi — tünd göy tema (əsas palitraya uyğun) ===== */
+.sh-sec{
+  --sh-bg:#14305a;
+  --sh-bg2:#1b3d6c;
+  --sh-deep:#112a4d;
+  --sh-deep-rgb:17,42,77;
+  --sh-card:#21487a;
+  --sh-line:rgba(255,255,255,.12);
+  --sh-text:var(--mist-bright);
+  --sh-muted:var(--mist-dim);
+  --sh-gold:var(--gold-soft);
+  --sh-gold-rgb:217,194,136;
+  --sh-blue:var(--blue);
+  --sh-red:var(--red);
+  --sh-green:var(--green);
+
+  background:
+    radial-gradient(1000px 500px at 50% -10%, rgba(26,138,174,.18), transparent 60%),
+    linear-gradient(180deg,var(--sh-bg),var(--sh-bg2));
+  color:var(--sh-text);
+  padding:80px 0;
+  scroll-margin-top:70px;
+}
+.sh-wrap{max-width:1200px;margin:0 auto;padding:0 20px}
+
+/* Başlıq */
+.sh-head{text-align:center;margin-bottom:36px}
+.sh-eyebrow{color:var(--sh-gold);letter-spacing:.18em;text-transform:uppercase;font-size:.8rem;font-weight:700}
+.sh-head h2{font-family:"Source Serif 4",Georgia,serif;font-size:clamp(2rem,5vw,3rem);margin:.3em 0;color:#fff}
+.sh-sub{color:var(--sh-muted);max-width:640px;margin:0 auto}
+.sh-flag{display:flex;width:120px;height:6px;margin:22px auto 0;border-radius:3px;overflow:hidden}
+.sh-flag i{flex:1}
+.sh-flag i:nth-child(1){background:var(--sh-blue)}
+.sh-flag i:nth-child(2){background:var(--sh-red)}
+.sh-flag i:nth-child(3){background:var(--sh-green)}
+
+/* Alətlər */
+.sh-tools{display:flex;flex-wrap:wrap;gap:12px;align-items:center;margin-bottom:28px}
+.sh-tools input,.sh-tools select{
+  background:var(--sh-card);color:var(--sh-text);border:1px solid var(--sh-line);
+  border-radius:10px;padding:12px 14px;font:inherit;min-width:0
+}
+.sh-tools input{flex:1 1 240px}
+.sh-tools select{flex:0 1 220px}
+.sh-tools input:focus,.sh-tools select:focus{outline:2px solid var(--sh-blue);outline-offset:1px}
+.sh-count{margin-left:auto;color:var(--sh-muted);font-size:.9rem}
+
+/* Kartlar */
+.sh-grid{display:grid;grid-template-columns:repeat(auto-fill,minmax(250px,1fr));gap:22px}
+.sh-card{
+  background:var(--sh-card);border:1px solid var(--sh-line);border-radius:16px;overflow:hidden;
+  display:flex;flex-direction:column;cursor:pointer;
+  transition:transform .25s,box-shadow .25s,border-color .25s;
+}
+.sh-card:hover,.sh-card:focus-visible{
+  transform:translateY(-6px);border-color:var(--sh-gold);
+  box-shadow:0 18px 40px rgba(10,24,45,.4);outline:none
+}
+.sh-photo{position:relative;aspect-ratio:4/5;background:var(--sh-deep);overflow:hidden}
+.sh-photo img{width:100%;height:100%;object-fit:cover;filter:grayscale(.15);transition:transform .4s}
+.sh-card:hover .sh-photo img{transform:scale(1.05)}
+.sh-photo::after{content:"";position:absolute;inset:auto 0 0 0;height:45%;
+  background:linear-gradient(transparent,rgba(var(--sh-deep-rgb),.92))}
+.sh-ribbon{position:absolute;left:0;right:0;bottom:0;height:4px;display:flex;z-index:2}
+.sh-ribbon i{flex:1}
+.sh-ribbon i:nth-child(1){background:var(--sh-blue)}
+.sh-ribbon i:nth-child(2){background:var(--sh-red)}
+.sh-ribbon i:nth-child(3){background:var(--sh-green)}
+.sh-info{padding:16px 18px 18px;display:flex;flex-direction:column;gap:6px;flex:1}
+.sh-rank{color:var(--sh-gold);font-size:.78rem;font-weight:700;letter-spacing:.06em;text-transform:uppercase}
+.sh-name{font-family:"Source Serif 4",Georgia,serif;font-size:1.2rem;font-weight:700;color:#fff;line-height:1.25}
+.sh-dates{color:var(--sh-muted);font-size:.9rem}
+.sh-place{color:var(--sh-muted);font-size:.85rem}
+.sh-more{margin-top:auto;padding-top:12px}
+
+/* Düymələr */
+.sh-btn{
+  display:inline-block;padding:11px 20px;border-radius:999px;border:1px solid var(--sh-gold);
+  color:var(--sh-gold);background:transparent;font:600 .95rem/1 "Manrope",system-ui,sans-serif;
+  text-decoration:none;cursor:pointer;transition:.2s
+}
+.sh-btn:hover{background:rgba(var(--sh-gold-rgb),.14)}
+.sh-btn-gold{background:var(--sh-gold);color:var(--navy)}
+.sh-btn-gold:hover{background:#e6d199;transform:translateY(-2px)}
+
+.sh-empty{text-align:center;color:var(--sh-muted);padding:40px 0}
+.sh-cta{text-align:center;margin-top:50px;padding-top:34px;border-top:1px solid var(--sh-line)}
+.sh-cta p{color:var(--sh-muted);margin:0 0 16px}
+
+/* Modal */
+.sh-dialog{
+  width:min(860px,94vw);max-height:90vh;padding:0;border:1px solid var(--sh-line);border-radius:18px;
+  background:var(--sh-bg2);color:var(--sh-text);overflow:auto;
+}
+.sh-dialog::backdrop{background:rgba(10,24,45,.72);backdrop-filter:blur(4px)}
+.sh-x{
+  position:absolute;top:12px;right:12px;z-index:5;width:38px;height:38px;border-radius:50%;
+  border:1px solid var(--sh-line);background:rgba(var(--sh-deep-rgb),.85);color:#fff;font-size:1rem;cursor:pointer
+}
+.sh-x:hover{background:var(--sh-red)}
+.sh-detail{display:grid;grid-template-columns:300px 1fr}
+.sh-detail-photo{background:var(--sh-deep)}
+.sh-detail-photo img{width:100%;height:100%;min-height:360px;object-fit:cover;display:block}
+.sh-detail-body{padding:30px 28px}
+.sh-detail-body h3{font-family:"Source Serif 4",Georgia,serif;font-size:1.7rem;margin:.2em 0 .6em;color:#fff}
+.sh-facts{display:grid;grid-template-columns:auto 1fr;gap:8px 18px;margin:0 0 18px}
+.sh-facts dt{color:var(--sh-muted);font-size:.88rem}
+.sh-facts dd{margin:0;font-weight:600}
+.sh-bio{color:var(--mist);line-height:1.7;margin:0 0 22px;white-space:pre-line}
+.sh-actions{display:flex;flex-wrap:wrap;gap:10px}
+
+@media (max-width:700px){
+  .sh-sec{padding:56px 0}
+  .sh-count{margin-left:0;width:100%}
+  .sh-detail{grid-template-columns:1fr}
+  .sh-detail-photo img{min-height:0;max-height:340px}
+  .sh-detail-body{padding:22px 18px}
+}
+@media (prefers-reduced-motion:reduce){
+  .sh-card,.sh-photo img,.sh-btn{transition:none}
+}
+
+
+/* Yeni elementlər */
+.sh-check{display:flex;align-items:center;gap:8px;color:var(--sh-text);font-size:.92rem;cursor:pointer;
+  background:var(--sh-card);border:1px solid var(--sh-line);border-radius:10px;padding:11px 14px}
+.sh-check input{accent-color:var(--sh-gold);width:16px;height:16px;margin:0}
+.sh-tools select{max-width:100%}
+
+.sh-badge{position:absolute;top:12px;left:12px;z-index:2;background:var(--sh-gold);color:var(--navy);
+  font-size:.72rem;font-weight:700;padding:5px 10px;border-radius:999px;letter-spacing:.02em}
+
+/* Şəkil olmadıqda baş hərflər */
+.sh-ini{width:100%;height:100%;min-height:200px;display:grid;place-items:center;
+  font:700 clamp(2.4rem,8vw,3.6rem)/1 "Source Serif 4",Georgia,serif;color:var(--sh-gold);
+  background:radial-gradient(circle at 50% 35%,#2d5489,var(--sh-deep))}
+.sh-detail-photo .sh-ini{min-height:360px}
+.sh-dimg{width:100%;height:100%;min-height:360px;object-fit:cover;display:block}
+
+.sh-chips{display:flex;flex-wrap:wrap;gap:8px;margin:0 0 18px}
+.sh-chip{font-size:.8rem;padding:6px 12px;border-radius:999px;
+  background:rgba(var(--sh-gold-rgb),.14);border:1px solid rgba(var(--sh-gold-rgb),.5);color:var(--sh-gold)}
+
+.sh-official{margin:0 0 22px;border:1px solid var(--sh-line);border-radius:12px;background:rgba(255,255,255,.04)}
+.sh-official summary{cursor:pointer;padding:12px 16px;color:var(--sh-gold);font-weight:600;font-size:.92rem}
+.sh-official p{margin:0;padding:0 16px 16px;color:var(--sh-muted);font-size:.88rem;line-height:1.65}
+
+.sh-loadwrap{text-align:center;margin-top:30px}
+.sh-loadmore{padding:13px 28px}
+
+@media (max-width:700px){
+  .sh-detail-photo .sh-ini,.sh-dimg{min-height:0;height:300px}
+}

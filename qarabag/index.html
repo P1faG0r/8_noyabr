@@ -1,0 +1,175 @@
+<!DOCTYPE html>
+<html lang="az">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>8 Noyabr — Zəfər Günü | Qarabağ Azərbaycandır!</title>
+  <meta name="description" content="44 günlük Vətən müharibəsinin interaktiv salnaməsi: gün-gün hadisələr, Qarabağ rayonları, Zəfər xəritəsi və viktorina.">
+  <meta property="og:title" content="8 Noyabr — Zəfər Günü | Qarabağ Azərbaycandır!">
+  <meta property="og:description" content="44 günlük Vətən müharibəsinin interaktiv salnaməsi, rayonlar və Zəfər xəritəsi.">
+  <meta property="og:type" content="website">
+  <meta property="og:image" content="assets/images/shusha.jpg">
+  <link rel="icon" href="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 100 100'%3E%3Ctext y='.9em' font-size='90'%3E🇦🇿%3C/text%3E%3C/svg%3E">
+  <link rel="preconnect" href="https://fonts.googleapis.com"><link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Manrope:wght@400;600;700&family=Source+Serif+4:opsz,wght@8..60,500;8..60,700&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="css/style.css">
+  <link rel="stylesheet" href="css/sehidler.css">
+</head>
+<body>
+  <a class="skip" href="#main">Əsas məzmuna keç</a>
+  <header class="hdr">
+    <div class="tricolor"></div>
+    <div class="hdr-in">
+      <a class="logo" href="index.html"><img src="assets/images/kharibulbul.png" alt="" onerror="this.style.display='none'"><span>8 Noyabr — Zəfər Günü</span></a>
+      <button class="burger" id="burger" aria-label="Menyu" aria-expanded="false" aria-controls="nav">☰</button>
+      <nav id="nav" aria-label="Əsas menyu">
+        <a href="#home">Ana səhifə</a><a href="#timeline">Salnamə</a><a href="#regions">Rayonlar</a>
+        <a href="#map">Zəfər xəritəsi</a><a href="#sehidler">Qəhrəmanlar</a><a href="#quiz">Viktorina</a><a href="#footer">Əlaqə</a>
+      </nav>
+    </div>
+  </header>
+
+  <main id="main">
+    <section class="hero" id="home">
+      <div class="hero-in reveal">
+        <div class="eyebrow">Qarabağ Azərbaycandır!</div>
+        <h1>8 Noyabr — Zəfər Günü</h1>
+        <p>Xalqımızın 44 günlük Vətən müharibəsində qazandığı tarixi Qələbənin, birliyimizin və qəhrəmanlığımızın rəmzi.</p>
+        <div class="stats">
+          <div class="stat"><b>44</b><span>gün</span></div>
+          <div class="stat"><b>5</b><span>şəhər</span></div>
+          <div class="stat"><b>4</b><span>qəsəbə</span></div>
+          <div class="stat"><b>286</b><span>kənd</span></div>
+        </div>
+        <p class="stats-note">9 noyabradək azad edilənlər — AZƏRTAC məlumatı.</p>
+        <div class="btns">
+          <a class="btn gold" href="#timeline">Zəfər salnaməsini izlə</a>
+          <a class="btn" href="#sehidler">Qəhrəmanlarımızı tanı</a>
+        </div>
+      </div>
+    </section>
+
+    <section id="timeline" class="sec dark">
+      <div class="wrap">
+        <h2 class="reveal">44 günlük Zəfər salnaməsi</h2>
+        <p class="sub">Gün seçin. ← → düymələri ilə də keçid etmək olar.</p>
+        <div class="tl-bar">
+          <button class="icon-btn" id="tlPrev" aria-label="Əvvəlki gün">‹</button>
+          <div class="tl" id="tl" role="list" aria-label="Günlər"></div>
+          <button class="icon-btn" id="tlNext" aria-label="Növbəti gün">›</button>
+        </div>
+        <div class="progress" aria-hidden="true"><i id="tlProg"></i></div>
+        <article id="tlDetail" aria-live="polite"></article>
+      </div>
+    </section>
+
+    <section id="regions" class="sec">
+      <div class="wrap">
+        <h2 class="reveal">Qarabağ rayonları</h2>
+        <p class="sub">Rayonu seçin — tarixi məlumata və salnamədəki günlərə baxın.</p>
+        <div class="grid" id="regionGrid"></div>
+      </div>
+    </section>
+
+    <section id="map" class="sec alt">
+      <div class="wrap">
+        <h2 class="reveal">Zəfər xəritəsi</h2>
+        <div class="filters">
+          <label>Başlanğıc<input type="date" id="fFrom" min="2020-09-27"></label>
+          <label>Son<input type="date" id="fTo" min="2020-09-27"></label>
+          <label>Rayon<select id="fDist"><option value="">Hamısı</option></select></label>
+          <button class="btn gold" id="fReset">Hamısını göstər</button>
+        </div>
+        <div class="legend" id="legend"></div>
+        <div id="gmap" role="region" aria-label="Zəfər xəritəsi"></div>
+        <p class="sub">Koordinatlar təxminidir və rəsmi mənbələrlə dəqiqləşdirilməlidir.</p>
+      </div>
+    </section>
+    
+
+
+
+
+
+    <section id="sehidler" class="sh-sec">
+  <div class="sh-wrap">
+    <div class="sh-head">
+      <div class="sh-eyebrow">Qəhrəmanlar</div>
+      <h2>Şəhidlərimiz</h2>
+      <p class="sh-sub">Vətən uğrunda canından keçən övladlarımızın xatirəsi qəlbimizdə əbədi yaşayacaq.</p>
+      <div class="sh-flag" aria-hidden="true"><i></i><i></i><i></i></div>
+    </div>
+
+    <div class="sh-tools">
+  <input type="search" id="shSearch" placeholder="Ad üzrə axtar…" aria-label="Şəhid axtarışı">
+  <select id="shAward" aria-label="Təltif üzrə filtr">
+    <option value="">Bütün təltiflər</option>
+  </select>
+  <label class="sh-check">
+    <input type="checkbox" id="shMdu"> MDU yetirmələri
+  </label>
+  <span class="sh-count" id="shCount"></span>
+</div>
+
+<div class="sh-grid" id="shGrid"></div>
+<p class="sh-empty" id="shEmpty" hidden>Heç nə tapılmadı.</p>
+<div class="sh-loadwrap"><button type="button" class="sh-btn sh-loadmore" id="shMore" hidden>Daha çox göstər</button></div>
+
+  
+    <div class="sh-cta">
+      <p>Bütün şəhidlərimiz haqqında tam məlumat:</p>
+      <a class="sh-btn sh-btn-gold" href="https://unudulmazlar.az/az" target="_blank" rel="noopener noreferrer">
+        Ətraflı — unudulmazlar.az ↗
+      </a>
+    </div>
+  </div>
+
+  <dialog id="shDialog" class="sh-dialog" aria-label="Şəhid haqqında məlumat">
+    <button class="sh-x" id="shClose" aria-label="Bağla">✕</button>
+    <div id="shDialogBody"></div>
+  </dialog>
+</section>
+
+
+
+
+
+
+
+
+
+    <section id="quiz" class="sec">
+      <div class="wrap"><h2 class="reveal">Zəfəri nə qədər tanıyırsan?</h2><div class="quiz" id="quizBox"></div></div>
+    </section>
+
+    <section class="meaning"><blockquote class="reveal">“Zəfər təkcə bir qələbə deyil, xalqımızın birliyinin, iradəsinin və Vətənə sonsuz sevgisinin təntənəsidir.”</blockquote></section>
+  </main>
+
+  <footer id="footer">
+    <h3>Zəfərin mənası</h3>
+    <div class="btns" id="footLinks"></div>
+    <p>© Qarabağ Azərbaycandır!</p>
+  </footer>
+
+  <dialog id="modal" aria-label="Ətraflı məlumat"><button class="dlg-x" id="modalX" aria-label="Bağla">✕</button><div class="dlg-body" id="modalBody"></div></dialog>
+  <dialog id="viewer" aria-label="Foto"><button class="dlg-x" id="viewerX" aria-label="Bağla">✕</button><img id="vImg" alt=""><div class="cap" id="vCap"></div>
+    <div class="vnav"><button class="btn" id="vPrev">‹ Əvvəlki</button><button class="btn" id="vNext">Növbəti ›</button></div></dialog>
+
+  <!-- Skriptlərin sırası vacibdir: əvvəl məlumat, sonra məntiq -->
+  <script src="js/config.js"></script>
+  <script src="data/timeline.js"></script>
+  <script src="data/regions.js"></script>
+  <script src="data/locations.js"></script>
+  <script src="data/quiz.js"></script>
+  <script src="js/footer-links.js"></script>
+  <script src="js/core.js"></script>
+  <script src="js/modal.js"></script>
+  <script src="js/timeline.js"></script>
+  <script src="js/regions.js"></script>
+  <script src="js/map.js"></script>
+  <script src="js/quiz.js"></script>
+  <script src="js/main.js"></script>
+  <script src="data/sehidler.js"></script>
+  <script src="js/sehidler.js"></script>
+</body>
+</html>

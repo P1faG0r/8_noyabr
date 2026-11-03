@@ -1,0 +1,751 @@
+[
+  {
+    "id": 1,
+    "name": "Məmmədov Şahmar Ağasəf oğlu",
+    "initials": "MŞ",
+    "birthDate": "12.07.1977",
+    "deathDate": "27.09.2020",
+    "image": "assets/images/heroes/1__M__mm__dov___ahmar_A__as__f__5_.jpg",
+    "mduGraduate": false,
+    "badge": null,
+    "awards": [
+      "Vətən uğrunda"
+    ],
+    "biography": "Məmmədov Şahmar Ağasəf oğlu 12 iyul 1977-ci ildə Qəbələ rayonunun Vəndam kəndində anadan olub. Sonradan ailə Mingəçevir şəhərinə köçüb. Şahmar Dilqəm Nağıyev adına 9 nömrəli orta məktəbi bitirdikdən sonra 1993-95-ci illərdə 39 nömrəli texniki-peşə məktəbində oxuyub. 1995-98-ci illərdə müddətli həqiqi hərbi xidmətdə olub. 2014-cü ilin iyul ayında MAHHXHD kursuna daxil olub, sentyabr ayında bitirib, “N” saylı hərbi hissədə tuşlayıcı operator kimi vətənə olan xidmətini davam etdirib. 2016-cı ilin aprel döyüşlərində iştirak edib. Göstərdiyi rəşadətlərə görə medalla təltif edilib. Müddətdən artıq hərbi xidmət qulluqçusu kimi torpaqlarımızın müdafiəsində rəşadətlər göstərib. 2020-ci ilin 27 sentyabrında, Vətən müharibəsinin ilk günündə Suqovuşan istiqamətində gedən döyüşlərdə şəhid olub. Ailəli idi, bir qızı var. Mingəçevir Şəhidlər Xiyabanında dəfn olunub. Azərbaycan Respublikasının Prezidenti İlham Əliyevin 15 dekabr tarixli sərəncamı ilə Azərbaycanın ərazi bütövlüyünün təmin edilməsi uğrunda döyüş əməliyyatlarına qatılan və hərbi hissə qarşısında qoyulmuş tapşırıqların icrası zamanı vəzifə borcunu şərəflə yerinə yetirdiyi üçün Şahmar Məmmədov (ölümündən sonra) “Vətən uğrunda” medalı ilə təltif edilib."
+  },
+  {
+    "id": 2,
+    "name": "Babayev Allahverdi Ələt oğlu",
+    "initials": "BA",
+    "birthDate": "24.03.1989",
+    "deathDate": "27.09.2020",
+    "image": "assets/images/heroes/4__Babayev_Allahverdi___l__t__1_.jpg",
+    "mduGraduate": false,
+    "badge": null,
+    "awards": [
+      "Vətən uğrunda"
+    ],
+    "biography": "Babayev Allahverdi Ələt oğlu 24 mart 1989-cu ildə Mingəçevir şəhərində anadan olub. 1 nömrəli orta məktəbi bitirib. 2007-2012-ci illərdə Bakı İslam Universitetinin Mingəçevir filialında təhsil alıb. 2012-2013-cü illərdə müddətli həqiqi hərbi xidmətdə olub. 2016-cı ilin aprel döyüşlərində iştirak edib, yaralanıb, qazi olub. İkinci Qarabağ müharibəsində, 2020-ci il sentyabr ayının 27-də Suqovuşan istiqamətində gedən döyüşlərdə qəhrəmancasına şəhid olub. Subay idi. Sentyabr ayının 28-də Mingəçevir Şəhidlər Xiyabanında dəfn olunub. Azərbaycan Respublikasının Prezidenti İlham Əliyevin 15 dekabr tarixli sərəncamı ilə Azərbaycanın ərazi bütövlüyünün təmin edilməsi uğrunda döyüş əməliyyatlarına qatılan və hərbi hissə qarşısında qoyulmuş tapşırıqların icrası zamanı vəzifə borcunu şərəflə yerinə yetirdiyi üçün Allahverdi Babayev (ölümündən sonra) “Vətən uğrunda” medalı ilə təltif edilib."
+  },
+  {
+    "id": 3,
+    "name": "Əhmədov Əli İlqar oğlu",
+    "initials": "ƏƏ",
+    "birthDate": "05.01.1993",
+    "deathDate": "27.09.2020",
+    "image": "assets/images/heroes/__hm__dov___li.jpg",
+    "mduGraduate": false,
+    "badge": null,
+    "awards": [
+      "Vətən uğrunda",
+      "Əfqanıstanda sülhməramlı missiyaya görə",
+      "Laçının azad olunmasına görə"
+    ],
+    "biography": "Əhmədov Əli İlqar oğlu 5 yanvar 1993-cü ildə Mingəçevir şəhərində anadan olub. 2000-2011- ci illərdə 11 nömrəli orta məktəbdə təhsil alıb. Azərbaycan Əmək və Sosial Münasibətlər Akademiyasının Maliyyə fakültəsini bitirdikdən sonra 2015-ci ildə müddətli həqiqi hərbi xidmətə yola düşüb. Sülhməramlıların tərkibində 6 ay Əfqanıstanda xidmət göstərib. Mükafatlandırılaraq “Əfqanıstanda sülhməramlı missiyaya görə” medalı ilə təltif edilib. Müddətdən artıq hərbi xidmət qulluqçusu kimi xidmətini davam etdirib. Vətənə ləyaqərlə xidmət göstərən kiçik çavuş Əli İlqar oğlu 2020-ci ilin 27 sentyabrında, Vətən müharibəsində Suqovuşanın azad olunması uğrunda gedən döyüşlərdə qəhrəmancasına şəhid olub. Mingəçevir Şəhidlər Xiyabanında dəfn olunub. Subay idi. Azərbaycanın ərazi bütövlüyünün təmin edilmişi uğrunda döyüş əməliyyatlarına qatılan və hərbi hissə qarşısında qoyulmuş tapşırıqların icrası zamanı vəzifə borcunu şərəflə yerinə yetirdiyi üçün Azərbaycan Respublikasının Prezidenti İlham Əliyevin 15 dekabr 2020-ci il tarixli sərəncamı ilə Əli Əhmədov (ölümündən sonra) “Vətən uğrunda” medalı ilə təltif edilib. Azərbaycanın Laçın rayonunun işğaldan azad edilməsi uğrunda aparılan döyüş əməliyyatlarına qatılaraq şəxsi igidlik və şücaət nümayiş etdirdiyinə görə Azərbaycan Respublikasının prezidenti İlham Əliyevin 29 dekabr 2020-ci il tarixli sərəncamı ilə Əli Əhmədov (ölümündın sonra) “Laçının azad olunmasına görə” medalı ilə təltif edilib."
+  },
+  {
+    "id": 4,
+    "name": "Məmmədov Məhyəddin Yaşar oğlu",
+    "initials": "MM",
+    "birthDate": "17.08.1998",
+    "deathDate": "28.09.2020",
+    "image": "assets/images/heroes/M__mm__dov_M__hy__ddin.jpg",
+    "mduGraduate": false,
+    "badge": null,
+    "awards": [
+      "Vətən uğrunda"
+    ],
+    "biography": "Məmmədov Məhyəddin Yaşar oğlu 17 avqust 1998-ci ildə Ağdaş rayonunun Nemətabad kəndində anadan olub. Ailə Mingəçevir şəhərinə köçdükdən sonra Məhyəddin energetiklər qəsəbəsindəki 8 nömrəli orta məktəbdə təhsil alıb. 2016-cı ildə orta məktəbi bitirdikdən sonra müddətli həqiqi hərbi xidmətdə olub. Beyləqanda xidmətdə olarkən rabitəçi kursunda oxuyub. 2018-ci il aprel ayının 12-də hərbi xidmətini başa vursa da müddətdən artıq hərbi xidmətinə davam edib. 2019-cu ildə imtahan verərək Azərbaycan Silahlı Qüvvələrinin kiçik çavuşu rütbəsini alıb. Torpaqlarımızın düşmən hücumlarından qorunmasında fədakarlıqlar göstərib. 27 sentyabr 2020-ci il tarixdə Azərbaycan Silahlı Qüvvələri tərəfindən Ermənistanın işğalı altında olan ərazilərin azad edilməsi və Azərbaycanın ərazi bütövlüyünün bərpa olunması üçün başlanan Vətən müharibəsində iştirak edib. 2020-ci il sentyabr ayının 28-də Tərtər rayonunun Suqovuşan istiqamətində gedən döyüşlərdə qəhrəmancasına şəhid olub. Mingəçevir Şəhidlər Xiyabanında dəfn olunub. Subay idi. Azərbaycanın ərazi bütövlüyünün təmin edilmişi uğrunda döyüş əməliyyatlarına qatılan və hərbi hissə qarşısında qoyulmuş tapşırıqların icrası zamanı vəzifə borcunu şərəflə yerinə yetirdiyi üçün Azərbaycan Respublikasının Prezidenti İlham Əliyevin 15 dekabr 2020-ci il tarixli sərəncamı ilə Məhyəddin Məmmədov (ölümündən sonra) “Vətən uğrunda” medalı ilə təltif edilib."
+  },
+  {
+    "id": 5,
+    "name": "Əhmədov İslam İlqar oğlu",
+    "initials": "Əİ",
+    "birthDate": "19.09.1994",
+    "deathDate": "27.09.2020",
+    "image": "assets/images/heroes/__hm__dov___slam.jpg",
+    "mduGraduate": false,
+    "badge": null,
+    "awards": [
+      "Vətən uğrunda",
+      "Azərbaycan Silahlı Qüvvələrinin 95 illik",
+      "Azərbaycan Ordusunun 100 illiyi"
+    ],
+    "biography": "Əhmədov İslam İlqar oğlu 19 sentyabr 1994-cü ildə Mingəçevir şəhərində anadan olub. 2000-2011-ci illərdə 11 nömrəli orta məktəbdə təhsil alıb. 2011-ci ildə müddətli həqiqi hərbi xidmətə yola düşüb. Xidmətini başa vurduqdan sonra bir müddət Mingəçevir şəhərində işləsə də 2013-cü ildən müddətdən artıq hərbi xidmət qulluqçusu kimi xidmətini davam etdirməyə başlayıb, torpaqlarımızın qorunmasında iştirak edib. 2016-cı ildən Vətənə ləyaqətlə xidmət göstərən İslam Əhmədov aprel döyüşlərində iştirak edib. “Azərbaycan Silahlı Qüvvələrinin 95 illik”, “Azərbaycan Ordusunun 100 illiyi” yubiley medalları ilə təltif edilib. 2020-ci ilin 27 sentyabrında Vətən müharibəsində Füzuli istiqamətində gedən döyüşlərdə qəhrəmancasına şəhid olub. 2020-ci il sentyabr ayının 28-də Mingəçevir Şəhidlər Xiyabanında dəfn olunub. Subay idi. Azərbaycan Respublikasının Prezidenti İlham Əliyevin 15 dekabr 2020-ci il tarixli sərəncamı ilə Azərbaycanın ərazi bütövlüyünün təmin edilməsi uğrunda döyüş əməliyyatlarına qatılan və hərbi hissə qarşısında qoyulmuş tapşırıqların icrası zamanı vəzifə borcunu şərəflə yerinə yetirdiyi üçün İslam Əhmədov (ölümündən sonra) “Vətən uğrunda” medalı ilə təltif edilib."
+  },
+  {
+    "id": 6,
+    "name": "Abbasəliyev Hüseyn Adil oğlu",
+    "initials": "AH",
+    "birthDate": "22.10.2000",
+    "deathDate": "29.09.2020",
+    "image": "assets/images/heroes/Abbas__liyev_H__seyn.jpg",
+    "mduGraduate": false,
+    "badge": null,
+    "awards": [
+      "Vətən uğrunda"
+    ],
+    "biography": "Abbasəliyev Hüseyn Adil oğlu 22 oktyabr 2000-ci ildə Mingəçevir şəhərində anadan olub. Əvvəl 14, sonra 1 nömrəli orta məktəblərdə təhsil alıb. 2018-ci il oktyabr ayının 23-də müddətli həqiqi hərbi xidmətə yollanıb. Naxçıvanda Culfa rayonunda 6 ay təlim keçib. Hərbi xidmətini başa vurduqdan sonra, 2020-ci il mart ayının 29-da evə qayıdıb. Azərbaycan torpaqlarının düşmən işğalından azad olunması naminə könüllü səfərbərlik başlanan günlərdə Vətəni müdafiəyə yollanıb. Vətən müharibəsində, ikinci Qarabağ savaşında qəhrəmanlıqlar göstərib. 2020-ci il sentyabr ayının 29-da Suqovuşan-Talış istiqamətinin azad edilməsi uğrunda gedən döyüşlərdə düşmən postunu ələ keçirərkən şəhid olub. Mingəçevir Şəhidlər Xiyabanında dəfn olunub. Azərbaycan Respublikasının Prezidenti İlham Əliyevin 15 dekabr 2020-ci il tarixli sərəncamı ilə Azərbaycanın ərazi bütövlüyünün təmin edilməsi uğrunda döyüş əməliyyatlarına qatılan və hərbi hissə qarşısında qoyulmuş tapşırıqların icrası zamanı vəzifə borcunu şərəflə yerinə yetirdiyi üçün Hüseyn Abbasəliyev (ölümündən sonra) “Vətən uğrunda” medalı ilə təltif edilib."
+  },
+  {
+    "id": 7,
+    "name": "Məmmədov Səbuhi Şakir oğlu",
+    "initials": "MS",
+    "birthDate": "21.10.1982",
+    "deathDate": "01.10.2020",
+    "image": "assets/images/heroes/M__mm__dov_S__buhi.jpg",
+    "mduGraduate": false,
+    "badge": null,
+    "awards": [
+      "Vətən uğrunda"
+    ],
+    "biography": "Məmmədov Səbuhi Şakir oğlu 21 oktyabr 1982-ci ildə Mingəçevir şəhərində anadan olub. Orta təhsil alıb. Sonra müdddətli həqiqi hərbi xidmətdə olub. Həyatı boyu müxtəlif yerlərdə işləyib. Müddətdən artıq hərbi xidmət qulluqçusu kimi torpaqlarımızın müdafiəsində iştirak edib, ayrı-ayrı ərazilərdə xidmətdə olub. Vətən müharibəsinin ilk günlərindən yurdumuzun ərazi bütövlüyünün təmin edilməsi, işğal altında qalan torpaqlarımızın azad olunması uğrunda aparılan döyüşlərdə iştirak edib. Evli idi, 3 övladı var. 1 oktyabr 2020-ci ildə Suqovuşan-Talış kəndlərinin azad edilməsi uğrunda gedən döyüşlərdə şəhid olub. Mingəçevir Şəhidlər Xiyabanında dəfn olunub. Azərbaycan Respublikasının Prezidenti İlham Əliyevin 15 dekabr 2020-ci il tarixli sərəncamı ilə Azərbaycanın ərazi bütövlüyünün təmin edilməsi uğrunda döyüş əməliyyatlarına qatılan və hərbi hissə qarşısında qoyulmuş tapşırıqların icrası zamanı vəzifə borcunu şərəflə yerinə yetirdiyi üçün Səbuhi Məmmədov (ölümündən sonra) “Vətən uğrunda” medalı ilə təltif edilib."
+  },
+  {
+    "id": 8,
+    "name": "Həmidov Pərvin Azər oğlu",
+    "initials": "HP",
+    "birthDate": "08.03.1994",
+    "deathDate": "01.10.2020",
+    "image": "assets/images/heroes/H__midov_P__rvin.jpg",
+    "mduGraduate": false,
+    "badge": null,
+    "awards": [
+      "Vətən uğrunda"
+    ],
+    "biography": "Həmidov Pərvin Azər oğlu 8 mart 1994-cü ildə Yevlax rayonunun Bəydili kəndində anadsan olub. 1999-2012-ci illərdə Xaldan məktəbində, sonra isə 25 nömrəli Kəlbəcər məktəbində orta təhsil alıb. Təhsilini bitirdikdən sonra müddətli həqiqi hərbi xidmətdə olub. Həqiqi hərbi xidmətini başa vurduqdan sonra müxtəlif yerlərdə işləyib. 2017-ci ildə ailə qurub, iki övladı var. 2020-ci ilin yanvar ayında müddətdən artıq həqiqi hərbi xidmətdə fəaliyyətə başlayıb. Vətən müharibəsində, işğal altında qalan torpaqlarımızın azad olunması uğrunda aparılan döyüşlərdə qəhrəmanlıqlar göstərib. Suqovuşan-Talış kəndlərinin azad edilməsində iştirak edib. 2020-ci il oktyabr ayının 1-də Murov yüksəkliyində İnci dərəsində heyəti xilas edərkən şəhid olub. Mingəçevir Şəhidlər Xiyabanında dəfn olunub. Azərbaycan Respublikasının Prezidenti İlham Əliyevin 15 dekabr 2020-ci il tarixli sərəncamı ilə Azərbaycanın ərazi bütövlüyünün təmin edilməsi uğrunda döyüş əməliyyatlarına qatılan və hərbi hissə qarşısında qoyulmuş tapşırıqların icrası zamanı vəzifə borcunu şərəflə yerinə yetirdiyi üçün Pərvin Həmidov (ölümündən sonra) “Vətən uğrunda” medalı ilə təltif edilib."
+  },
+  {
+    "id": 9,
+    "name": "Hacıyev Nicat Cahangir oğlu",
+    "initials": "HN",
+    "birthDate": "24.05.1989",
+    "deathDate": "03.10.2020",
+    "image": "assets/images/heroes/Hac__yev_Nicat.jpg",
+    "mduGraduate": false,
+    "badge": null,
+    "awards": [
+      "Vətən uğrunda"
+    ],
+    "biography": "Hacıyev Nicat Cahangir oğlu 1989-cu il may ayının 24-də Füzuli rayonunun Qarakollu kəndində anadan olub. 3 yaşı olanda ailə doğma yurdu düşmən tərəfindən işğal olunduğu üçün Mingəçevir şəhərində məskunlaşıb. 4 nömrəli orta məktəbdə təhsil alıb. 2007-2009-cu illərdə Tovuz rayonunda müddətli həqiqi hərbi xidmətdə olub. Xidməti başa vurduqdan sonra əmək fəaliyyətinə başlayıb. 8 ilə yaxın müddətdən artıq hərbi xidmət qulluqçusu kimi Vətən torpaqlarını qoruyub. 2016-cı ilin aprel döyüşlərində iştirak edib, rəşadətlər göstərib. 2020-ci il sentyabr ayının 21-də ehtiyatda olan əsgər kimi yenidən xidmətə, vətən torpaqlarını düşmən caynağından xilas etmək üçün cəbhə bölgəsinə yollanıb. Vətəın müharibəsində Cəbrayılın və Füzulinin azad edilməsi uğrundakı döyüşlərdə iştirak edib. Snayperçi-gizir 2020-ci il oktyabrın 3-nə keçən gecə Cəbrayılın azad edilməsi uğrundakı döyüşlərdə düşmənin maşınını qənimət kimi götürərkən şəhid olub. Mingəçevir Şəhidlər Xiyabanında dəfn olunub. Azərbaycan Respublikasının Prezidenti İlham Əliyevin 15 dekabr 2020-ci il tarixli sərəncamı ilə Azərbaycanın ərazi bütövlüyünün təmin edilməsi uğrunda döyüş əməliyyatlarına qatılan və hərbi hissə qarşısında qoyulmuş tapşırıqların icrası zamanı vəzifə borcunu şərəflə yerinə yetirdiyi üçün Nicat Hacıyev (ölümündən sonra) “Vətən uğrunda” medalı ilə təltif edilib."
+  },
+  {
+    "id": 10,
+    "name": "Əliyev Elçin Rasim oğlu",
+    "initials": "ƏE",
+    "birthDate": "04.03.1994",
+    "deathDate": "29.09.2020",
+    "image": "assets/images/heroes/__liyev_El__in.jpg",
+    "mduGraduate": false,
+    "badge": null,
+    "awards": [
+      "Vətən uğrunda"
+    ],
+    "biography": "Əliyev Elçin Rasim oğlu 4 mart 1994-cü ildə Mingəçevir şəhərində anadan olub. 2011-ci ildə 16 nömrəli orta məktəbi bitirib. 2012-2013-cü illərdə müddətli həqiqi hərbi xidmətdə olub. 2014-cü il oktyabr ayının 27-dən 2015-ci ilin yanvar ayına qədər Silahlı Qüvvələrin Təlim-tədris mərkəzində gizir hazırlıq kursunu bitirib. Döyüş maşını komandiri kimi xidmətini davam etdirib. 2016-cı ilin aprel döyüşlərində iştirak edib, rəşadətlər göstərib. 2017-ci ildə Azərbaycan Respublikasının Silahlı Qüvvələrinin yaranmasının 99-cu ildönümü və birinci tədris dövrünün nəticələrinə görə Fəxri fərmanla, 2018-ci ildə aprel döyüşlərində göstərdiyi qəhrəmanlığa və Azərbaycan Respublikasının Yaranmasının 100 illiyi münasibətilə medalla təltif olunub. Vətən müharibəsində kəşfiyyatçı kimi düşmən tankının üstünə atılaraq onu partladıb. 2020-ci il sentyabr ayının 29-da Suqovuşan-Talış kəndlərinin azad edilməsi uğrunda gedən döyüşlərdə şəhid olub. Mingəçevir Şəhidlər Xiyabanında dəfn olunub. Azərbaycan Respublikasının Prezidenti İlham Əliyevin 15 dekabr 2020-ci il tarixli sərəncamı ilə Azərbaycanın ərazi bütövlüyünün təmin edilməsi uğrunda döyüş əməliyyatlarına qatılan və hərbi hissə qarşısında qoyulmuş tapşırıqların icrası zamanı vəzifə borcunu şərəflə yerinə yetirdiyi üçün Elçin Əliyev (ölümündən sonra) “Vətən uğrunda” medalı ilə təltif edilib."
+  },
+  {
+    "id": 11,
+    "name": "Məmmədov Vasif Rafail oğlu",
+    "initials": "MV",
+    "birthDate": "01.05.2001",
+    "deathDate": "06.10.2020",
+    "image": "assets/images/heroes/M__mm__dov_Vasif.jpg",
+    "mduGraduate": false,
+    "badge": null,
+    "awards": [
+      "Vətən uğrunda",
+      "Cəsur döyüşçü",
+      "Füzulinin azad olunmasına görə"
+    ],
+    "biography": "Məmmədov Vasif Rafail oğlu 1 may 2001-ci ildə Mingəçevir şəhərində anadan olub. Ağdam rayonundan məcburi köçkün olan ailə üzvləri 1993-cü ildən Mingəçevir şəhərində məskunlaşıb. 2007-2018-ci illərdə Mingəçevirdə fəaliyyət göstərən 18 nömrəli Cəbrayıl məktəbində təhsil alıb. 2019-cu il aprel ayının 7-də müddətli həqiqi hərbi xidmətə yola düşüb. Vətən müharibəsinin ilk günlərindən torpaqlarımızın azad olunması uğrunda aparılan döyüşlərdə xüsusi təyinatlı qurumun tərkibində atıcı və qumbaraatan əsgər kimi iştirak edib. 2020-ci il oktyabr ayının 6-da Cəbrayıl-Hadrut-Füzulinin azad olunması uğrunda gedən döyüşlərdə qəhrəmanlıqla şəhid olub. Mingəçevir Şəhidlər Xiyabanında dəfn olunub. Subay idi. Azərbaycan Respublikasının prezidenti İlham Əliyevin 15 dekabr 2020-ci il tarixli sərəncamı ilə Azərbaycanın ərazi bütövlüyünün təmin edilməsi uğrunda döyüş əməliyyatlarına qatılan və hərbi hissə qarşısında qoyulmuş tapşırıqların icrası zamanı vəzifə borcunu şərəflə yerinə yetirdiyi üçün Vasif Məmmədov (ölümündən sonra) “Vətən uğrunda” medalı ilə təltif edilib. Azərbaycan Respublikasının Prezidenti İlham Əliyevin 18 dekabr 2020-ci il tarixli sərəncamına əsasən Azərbaycan Respublikası ərazilərinin işğaldan azad olunması zamanı döyüş tapşırıqlarını uğurla yerinə yetirmiş, düşmənin əsas qruplaşmalarını və texnikasını məhv etməklə qoşunlarımızın döyüş qabiliyyətinin qorunub saxlanılmasında fərqlənmiş Azərbaycan Respublikası Silahlı Qüvvələrinin hərbi qulluqçusu Vasif Məmmədov (ölümündən sonra) “Cəsur döyüşçü” medalı ilə, 25 dekabr 2020-ci il tarixli sərəncamına əsasən Azərbaycan Respublikasının Füzuli rayonunun işğaldan azad edilməsi uğrunda aparılmış döyüş əməliyyatlarında iştirak edərək şəxsi igidlik və şücaət nümayiş etdirdiyinə görə “Füzulinin azad olunmasına görə” medalı ilə təltif edilib."
+  },
+  {
+    "id": 12,
+    "name": "Əlibəyli Mikayıl Xalıqverdi oğlu",
+    "initials": "ƏM",
+    "birthDate": "23.12.1992",
+    "deathDate": "06.10.2020",
+    "image": "assets/images/heroes/__lib__yli_Mikay__l.jpg",
+    "mduGraduate": false,
+    "badge": null,
+    "awards": [
+      "Vətən uğrunda"
+    ],
+    "biography": "Əlibəyli Mikayıl Xalıqverdi oğlu 1992-ci il dekabrın 23-də Mingəçevir şəhərində anadan olub. Uşaqlığı Yevlax rayonunun Balçılı kəndində keçib, orta təhsilini orda alıb. Müddətli həqiqi hərbi xidmətdə olub. Bakı şəhərində “Rahat”, Mingəçevir şəhərində “Qədiroğlu” və “Bazarstore” marketlərində işləyib. 2020-ci il sentybr ayının 21-də torpaqlarımızı qorumaq üçün səfərbərliyə çağırılıb, könüllü olaraq uzun iillər düşmən işğalı altında qalan yurd yerlərimizin xilas edilməsi uğrunda başlanan Vətən savaşına yola düşüb. İkinci Qarabağ müharibəsində torpaqlarmızın azad olunması uğrunda gedən döyüşlərdə qəhrəmanlıqlar göstərib. Oktyabr ayının 6-da Ağdərənin azad edilməsi uğrunda gedən döyüşlərdə qəhrəmancasına şəhid olub. Subay idi. Mingəçevir Şəhidlər Xiyabanında dəfn olunub.Azərbaycan Respublikasının prezidenti İlham Əliyevin 15 dekabr 2020-ci il tarixli sərəncamı ilə Azərbaycanın ərazi bütövlüyünün təmin edilməsi uğrunda döyüş əməliyyatlarına qatılan və hərbi hissə qarşısında qoyulmuş tapşırıqların icrası zamanı vəzifə borcunu şərəflə yerinə yetirdiyi üçün Mikayıl Əlibəyli (ölümündən sonra) “Vətən uğrunda” medalı ilə təltif edilib."
+  },
+  {
+    "id": 13,
+    "name": "Hüseynov Əzəmi Əli oğlu",
+    "initials": "HƏ",
+    "birthDate": "29.08.1992",
+    "deathDate": "08.11.2020",
+    "image": "assets/images/heroes/H__seynov___z__mi.jpg",
+    "mduGraduate": true,
+    "badge": "MDU yetirməsi",
+    "awards": [
+      "Vətən uğrunda"
+    ],
+    "biography": "Hüseynov Əzəmi Əli oğlu 29 avqust 1992-ci ildə Mingəçevir şəhərində anadan olub. 1999-2010-cu illərdə 14 nömrəli orta məktəbdə təhsil alıb. 2014-cü ildə Mingəçevir Dövlət Universitetini İstilik Energetikası mühəndisliyi ixtisası (əyani) ilə bitirib. 2014-15-ci illərdə Azərbaycan Silahlı Qüvvələrinin sıralarında müddətli həqiqi hərbi xidmətdə olub. 2016-cı ildən sonra isə müddətdən artıq hərbi xidmət qulluqçusu kimi fəaliyyətini, vətənə xidmətini davam etdirib. 30 ilə yaxın işğal altında qalan torpaqlarımızın azad edilməsi uğrunda aparılan döyüşlərdə, Vətən müharibəsində iştirak edib. 8 noyabr 2020-ci il tarixində Suqovuşanın azad olunması uğrunda gedən döyüşlərdə qəhrəmancasına şəhid olub. Azərbaycan Respublikasının Prezidenti İlham Əliyevin 15 dekabr 2020-ci il tarixli sərəncamı ilə Azərbaycanın ərazi bütövlüyünün təmin edilməsi uğrunda döyüş əməliyyatlarına qatılan və hərbi hissə qarşısında qoyulmuş tapşırıqların icrası zamanı vəzifə borcunu şərəflə yerinə yetirdiyi üçün Hüseynov Əzəmi Əli oğlu (ölümündən sonra) “Vətən uğrunda” medalı ilə təltif olunub."
+  },
+  {
+    "id": 14,
+    "name": "Məmişov Nurlan İlqar oğlu",
+    "initials": "MN",
+    "birthDate": "29.08.2000",
+    "deathDate": "07.10.2020",
+    "image": "assets/images/heroes/M__mi__ov_Nurlan.jpg",
+    "mduGraduate": false,
+    "badge": null,
+    "awards": [
+      "Vətən uğrunda"
+    ],
+    "biography": "Məmişov Nurlan İlqar oğlu 29 avqust 2000-ci ildə Mingəçevir şəhərində anadan olub. Ailə bir müddət Rusiyada yaşayıb. Orenburq şəhərində 2007-ci ildə orta məktəbin birinci sinfinə gedib. 2018-ci ildə Mingəçevir şəhərində 14 nömrəli orta məktəbi bitirib. Həmin ilin oktyabr ayında müddətli həqiqi hərbi xidmətə yollanıb. Ağcabədidə, sonra isə Füzuli yaxınlığında Əbdürrəhmanlı zirvəsində xidmət göstərib. 2020-ci ilin aprel ayında tərxis olunub. 2020-ci il sentyabrın 21-də könüllülər sırasında səfərbərliyə çağırlıb və ikinci Qarabağ müharibəsinə yollanıb. Əvvəl təlimlərdə iştirak edib, sonra isə cəbhə bölgəsində torpaqlarımızın azad olunmasında qəhrəmanlıqlar göstərib. Vətən müharibəsində Talışkəndin azad edilməsində, Tərtər, Ağdərə, Suqovuşanın yaxınlığında gedən döyüşlərdə iştirak edib. 5 ermənini məhv edib, 1 ermənini tərksilah edərək zərərsizləşdirib. 2020-ci il oktyabrın 7-də Suqovuşanın azad edilməsi uğrundakı döyüşlərdə şəhid olub. Mingəçevir Şəhidlər Xiyabanında dəfn olunub.Azərbaycan Respublikasının Prezidenti İlham Əliyevin 15 dekabr 2020-ci il tarixli sərəncamı ilə Azərbaycanın ərazi bütövlüyünün təmin edilməsi uğrunda döyüş əməliyyatlarına qatılan və hərbi hissə qarşısında qoyulmuş tapşırıqların icrası zamanı vəzifə borcunu şərəflə yerinə yetirdiyi üçün Nurlan Məmişov (ölümündən sonra) “Vətən uğrunda” medalı ilə təltif edilib."
+  },
+  {
+    "id": 15,
+    "name": "Rzayev Əli Nəsib oğlu",
+    "initials": "RƏ",
+    "birthDate": "09.07.1992",
+    "deathDate": "Oktyabr 2020",
+    "image": "assets/images/heroes/Rzayev___li.jpg",
+    "mduGraduate": false,
+    "badge": null,
+    "awards": [
+      "Vətən uğrunda"
+    ],
+    "biography": "Rzayev Əli Nəsib oğlu 9 iyul 1992-ci ildə Mingəçevir şəhərində anadan olub. Əvvəl Xaldan kənd məktəbində, sonradan isə Mingəçevir şəhərindəki 16 nömrəli orta məktəbdə təhsil alıb. Sürücülük peşəsinə yiyələnib. Naxçıvanda müddətli həqiqi hərbi xidmətdə olub. 2019-cu ildə ailə qurub, 1 övladı var. Vətən torpaqlarını qorumaq üçün müddətdən artıq hərbi xidmət qulluqçusu kimi ordu sıralarında fəaliyyətə başlayıb. Vətən müharibəsinin, ikinci Qarabağ müharibəsinin ilk günlərindən döyüşlərdə iştirak edib. Tərtər yaxınlığında, Suqovuşanın azad olunması uğrundakı döyüşlərdə oktyabrın 6-da qolundan yaralansa da geri qayıtmayıb. Qələbə uğrunda döyüşlərdə iştirak edərək qəhrəmanlıqlar göstərmək istəsə də şəhid olub. Mingəçevir Şəhidlər Xiyabanında dəfn olunub. Azərbaycan Respublikasının prezidenti İlham Əliyevin 15 dekabr 2020-ci il tarixli sərəncamı ilə Azərbaycanın ərazi bütövlüyünün təmin edilməsi uğrunda döyüş əməliyyatlarına qatılan və hərbi hissə qarşısında qoyulmuş tapşırıqların icrası zamanı vəzifə borcunu şərəflə yerinə yetirdiyi üçün Əli Rzayev (ölümündən sonra) “Vətən uğrunda” medalı ilə təltif edilib."
+  },
+  {
+    "id": 16,
+    "name": "İsmayılov Vüqar Eldar oğlu",
+    "initials": "İV",
+    "birthDate": "15.09.1993",
+    "deathDate": "06.10.2020",
+    "image": "assets/images/heroes/__smay__lov_V__qar.jpg",
+    "mduGraduate": false,
+    "badge": null,
+    "awards": [
+      "Vətən uğrunda",
+      "Suqovuşanın azad olunmasına görə"
+    ],
+    "biography": "İsmayılov Vüqar Eldar oğlu 15 sentyabr 1993-cü ildə Mingəçevir şəhərində anadan olub. 1 nömrəli orta məktəbdə təhsil alıb. 2011-ci ildə Mingəçevir şəhər hərbi komissarlığı tərəfindən müddətli həqiqi hərbi xidmətə çağırılıb. 2013-cü ildə xidmətini başa vurub. 2017-ci ildə ailə qurub, 3 yaşlı qızı, 4 aylıq oğlu var. 2020-ci il sentyabr ayının 21-də torpaqlarımızı qorumaq üçün səfərbərliyə çağırılıb. Ağdərə və Murovdağ döyüşlərində iştirak edib. 2020-ci il oktyabr ayının 6-da Suqovuşanın azad edilməsi uğrunda gedən döyüşlərdə qəhrəmanlıqla şəhid olub. Mingəçevir Şəhidlər Xiyabanında dəfn olunub. Azərbaycan Respublikasının prezidenti İlham Əliyevin 15 dekabr 2020-ci il tarixli sərəncamı ilə Azərbaycanın ərazi bütövlüyünün təmin edilməsi uğrunda döyüş əməliyyatlarına qatılan və hərbi hissə qarşısında qoyulmuş tapşırıqların icrası zamanı vəzifə borcunu şərəflə yerinə yetirdiyi üçün Vüqar İsmayılov (ölümündən sonra) “Vətən uğrunda” medalı ilə təltif edilib. Azərbaycan Respublikasının prezidenti İlham Əliyevin 29 dekabr 2020-ci il tarixli sərəncamı ilə Azərbaycan Respublikasının Suqovuşan kəndinin işğaldan azad edilməsi uğrunda aparılmış döyüş əməliyyatlarında iştirak edərək igidlik və mərdlik nümunəsi göstərmiş Vüqar İsmayılov (ölümündən sonra) “Suqovuşanın azad olunmasına görə” medalı ilə təltif edilib."
+  },
+  {
+    "id": 17,
+    "name": "İsgəndərov Niyazi Şahvələd oğlu",
+    "initials": "İN",
+    "birthDate": "13.10.1982",
+    "deathDate": "05.10.2020",
+    "image": "assets/images/heroes/__sg__nd__rov_Niyazi.jpg",
+    "mduGraduate": false,
+    "badge": null,
+    "awards": [
+      "Vətən uğrunda",
+      "Yubiley medalı",
+      "Fərqlənmə medalı",
+      "Laçının azad olunmasına görə"
+    ],
+    "biography": "İsgəndərov Niyazi Şahvələd oğlu 13 oktyabr 1982-ci ildə Qərbi Azərbaycanın Krasnoselo rayonunun Cad kəndində anadan olub. Sonradan Mingəçevir şəhərində yaşayıb. 8 nömrəli orta məktəbdə təhsil alıb. 1999-2001-ci illərdə müddətli həqiqi hərbi xidmətdə olub. 2014-cü il may ayının 11-də müddətdən artıq hərbi xidmət qulluqçusu kimi xidmətini davam etdirməyə başlayıb. Evli idi, 2 oğlu var. 2016-cı ilin aprel döyüşlərində iştirak edib, yaralanıb. Qazi idi. 1918-2018-ci il Azərbaycan Ordusunun 100 illiyi münasibəti ilə “Yubiley medalı” və hərbi xidmətdə “Fərqlənmə medalı” ilə təltif edilib. Vətəın müharibəsinin ilk günlərindən döyüş bölgələrində olub, düşmənə qarşı müharibədə qəhrəmanlıqla döyüşüb. 5 oktyabr 2020-ci ildə Tərtər-Suqovuşan-Laçın istiqamətlərinin azad olunması uğrunda aparılan döyüşlərdə qəhrəmanlıqla şəhid olub. Mingəçevir Şəhidlər Xiyabanında dəfn olunub. Azərbaycan Respublikasının prezidenti İlham Əliyevin 15 dekabr 2020-ci il tarixli sərəncamı ilə Azərbaycanın ərazi bütövlüyünün təmin edilməsi uğrunda döyüş əməliyyatlarına qatılan və hərbi hissə qarşısında qoyulmuş tapşırıqların icrası zamanı vəzifə borcunu şərəflə yerinə yetirdiyi üçün Niyazi İsgəndərov (ölümündən sonra) “Vətən uğrunda” medalı ilə təltif edilib. Azərbaycanın Laçın rayonunun işğaldan azad edilməsi uğrunda aparılan döyüş əməliyyatlarına qatılaraq şəxsi igidliyi və şücaət nümayiş etdirdiyinə görə Azərbaycan Respublikasının prezidenti İlham Əliyevin 29 dekabr 2020-ci il tarixli sərəncamı ilə Azərbaycan Respublikası Silahlı Qüvvələrinin hərbi quluqçusu Niyazi İsgəndərov (ölümündən sonra) “Laçının azad olunmasına görə” medalı ilə təltif edilib."
+  },
+  {
+    "id": 18,
+    "name": "Nəsibov Qəhrəman Fərman oğlu",
+    "initials": "NQ",
+    "birthDate": "28.11.2000",
+    "deathDate": "10.10.2020",
+    "image": "assets/images/heroes/N__sibov_Q__hr__man.jpg",
+    "mduGraduate": false,
+    "badge": null,
+    "awards": [
+      "Vətən uğrunda",
+      "Cəsur döyüşçü"
+    ],
+    "biography": "Nəsibov Qəhrəman Fərman oğlu 28 noyabr 2000-ci ildə Rusiyanın Bryansk şəhərində anadan olub. Ailə sonra Mingəçevir şəhərinə qayıdıb. Əvvəl 3, sonra isə 10 nömrəli orta məktəblərdə oxuyub. 2019-cu ilin yanvar ayında müddətli həqiqi hərbi xidmətə yola düşüb. Vətən müharibəsinin ilk günlərindən düşmənə qarşı aparılan düyüşlərdə iştirak edib. Torpaqlarımızın azad edilməsi başlıca vəzifə idi. Qorxmazlıq və fədakarlıq göstərən Qəhrəman düşmənin xeyli sayda əsgərini məhv edib. 2020-ci il oktyabr ayının 10-da Füzulinin azad olunması uğrunda aparılan döyüşlərdə ağır yaralanaraq şəhidlik zirvəsinə yüksəlib. Subay idi. Mingəçevir Şəhidlər Xiyabanında dəfn olunub. Azərbaycan Respublikasının prezidenti İlham Əliyevin 15 dekabr 2020-ci il tarixli sərəncamı ilə Azərbaycanın ərazi bütövlüyünün təmin edilməsi uğrunda döyüş əməliyyatlarına qatılan və hərbi hissə qarşısında qoyulmuş tapşırıqların icrası zamanı vəzifə borcunu şərəflə yerinə yetirdiyi üçün Qəhrəman Nəsibov (ölümündən sonra) “Vətən uğrunda” medalı ilə təltif edilib. Azərbaycan Respublikasının Prezidenti İlham Əliyevin 18 dekabr 2020-ci il tarixli sərəncamına əsasən Azərbaycan Respublikası ərazilərinin işğaldan azad olunması zamanı döyüş tapşırıqlarını uğurla yerinə yetirmiş, düşmənin əsas qruplaşmalarını və texnikasını məhv etməklə qoşunlarımızın döyüş qabiliyyətinin qorunub saxlanılmasında fərqlənmiş Azərbaycan Respublikası Silahlı Qüvvələrinin hərbi qulluqçusu Qəhrəman Nəsibov (ölümündən sonra) “Cəsur döyüşçü” medalı ilə təltif edilib."
+  },
+  {
+    "id": 19,
+    "name": "Seyidov Şahmar Fikrət oğlu",
+    "initials": "SŞ",
+    "birthDate": "21.02.1997",
+    "deathDate": "10.10.2020",
+    "image": "assets/images/heroes/Seyidov___ahmar.jpg",
+    "mduGraduate": false,
+    "badge": null,
+    "awards": [
+      "Vətən uğrunda",
+      "Cəsur döyüşçü",
+      "Suqovuşanın azad olunmasına görə"
+    ],
+    "biography": "Seyidov Şahmar Fikrət oğlu 21 fevral 1997-ci ildə Mingəçevir şəhərində anadan olub. 47 nömrəli Ağdam orta məktəbində təhsil alıb. Texniki peşə məktəbində çilingər peşəsinə yiyələnib. 2015-2017-ci illərdə Bakıda prezident qarnizonunda müddətli həqiqi hərbi xidmətdə olub. Sonra Bakıda və Mingəçevirdə plastik qapı və pəncərə hazırlanan sexlərdə işləyib. 2020-ci ilin fevralında MAXİ kimi hərbi xidmətdə fəaliyyətə başlasa da, məlum koronavirus səbəbindən may ayından işləməyə başlayıb. Sentyabr ayının 22-də evə gəlib, 24-də yenidən xidmətə yollanıb. Ağdərə-Talış-Murov yüksəkliklərinin azad olunmasında qəhrəmanlıqlar göstərib. 2020-ci il oktyabr ayının 10-da Daşaltının azad olunması uğrundakı döyüşlərdə qəhrəmanlıqla şəhid olub. Subay idi. Mingəçevir Şəhidlər Xiyabanında dəfn olunub. Azərbaycan Respublikasının prezidenti İlham Əliyevin 15 dekabr 2020-ci il tarixli sərəncamı ilə Azərbaycanın ərazi bütövlüyünün təmin edilməsi uğrunda aparılan döyüş əməliyyatlarına qatılan və hərbi hissə qarşısında qoyulmuş tapşırıqların icrası zamanı vəzifə borcunu şərəflə yerinə yetirdiyi üçün Şahmar Seyidov (ölümündən sonra) “Vətən uğrunda” medalı ilə təltif edilib. Azərbaycan Respublikasının Prezidenti İlham Əliyevin 18 dekabr 2020-ci il tarixli sərəncamına əsasən Azərbaycan Respublikası ərazilərinin işğaldan azad olunması zamanı döyüş tapşırıqlarını uğurla yerinə yetirmiş, düşmənin əsas qruplaşmalarını və texnikasını məhv etməklə qoşunlarımızın döyüş qabiliyyətinin qorunub saxlanılmasında fərqlənmiş Azərbaycan Respublikası Silahlı Qüvvələrinin hərbi qulluqçusu Şahmar Seyidov (ölümündən sonra) “Cəsur döyüşçü” medalı ilə təltif edilib. Azərbaycan Respublikasının prezidenti İlham Əliyevin 29 dekabr 2020-ci il tarixli sərəncamı ilə Azərbaycan Respublikasının Suqovuşan kəndinin işğaldan azad edilməsi uğrunda aparılmış döyüş əməliyyatlarında iştirak edərək igidlik və mərdlik nümunəsi göstərmiş Şahmar Seyidov (ölümündən sonra) “Suqovuşanın azad olunmasına görə” medalı ilə təltif edilib."
+  },
+  {
+    "id": 20,
+    "name": "Əsədov Əli Akif oğlu",
+    "initials": "ƏƏ",
+    "birthDate": "08.04.1993",
+    "deathDate": "13.10.2020",
+    "image": "assets/images/heroes/__s__dov___li.jpg",
+    "mduGraduate": false,
+    "badge": null,
+    "awards": [
+      "Vətən uğrunda"
+    ],
+    "biography": "Əsədov Əli Akif oğlu 8 aprel 1993-cü ildə Mingəçevir şəhərində anadan olub. 2000-2010-cu illərdə Vaqif Ağakişiyev adına 12 nömrəli orta məktəbdə təhsil alıb. İdmanla məşğul olub. Kompyuter kursunu bitirib. 2011-ci ilin 12 aprelində müddətli həqiqi hərbi xidmətə yola düşüb. Qazax bölgəsində xidmətdə olub. 2012-ci ilin 1 oktyabrında xidmətdən tərxis olunaraq ehtiyata buraxılıb. 2020-ci il sentyabr ayının 27-də səfərbərliyə çağırılıb. Vətən müharibəsində iştirak edib. Torpaqlarımızın azad olunması uğrunda aparılan döyüşlərdə qəhrəmanlıqlar göstərib. 2020-ci il oktyabr ayının 13-də qəhrəmanlıqla şəhid olub. Mingəçevir Şəhidlər Xiyabanında dəfn olunub. Subay idi. Azərbaycan Respublikasının prezidenti İlham Əliyevin 15 dekabr 2020-ci il tarixli sərəncamı ilə Azərbaycanın ərazi bütövlüyünün təmin edilməsi uğrunda döyüş əməliyyatlarına qatılan və hərbi hissə qarşısında qoyulmuş tapşırıqların icrası zamanı vəzifə borcunu şərəflə yerinə yetirdiyi üçün Əli Akif oğlu Əsədov (ölümündən sonra) “Vətən uğrunda” medalı ilə təltif edilib."
+  },
+  {
+    "id": 21,
+    "name": "İbrahimov Elmar Nəriman oğlu",
+    "initials": "İE",
+    "birthDate": "02.09.1998",
+    "deathDate": "16.10.2020",
+    "image": "assets/images/heroes/__brahimov_Elmar.jpg",
+    "mduGraduate": false,
+    "badge": null,
+    "awards": [
+      "Vətən uğrunda"
+    ],
+    "biography": "İbrahimov Elmar Nəriman oğlu 2 sentyabr 1998-ci ildə Mingəçevir şəhərində anadan olub. İlqar Zeynalov adına 2 nömrəli orta məktəbin doqquzuncu sinfini bitirdikdən sonra texniki-peşə məktəbində qaz qaynaqçısı peşəsinə yiyələnib. 2015-ci ildə peşə təhsilini başa vurub. 2016-2018-ci illərdə müddətli həqiqi hərbi xidmətdə olub. Hərbi xidməti dövründə döyüş və ictimai siyasi hazırlıqda əldə etdiyi nailiyyətlərə görə nümunəvi hərbi intizamına, yüksək mənəvi, işgüzar keyfiyyətlərinə və vəzifə borcunu layiqincə yerinə yetirdiyinə görə fəxri fərmana layiq görülüb. Xidməti başa vurub qayıtdıqdan sonra bərbər peşəsinə yiyələnib və vətəndaşlara xidmətə başlayıb. 2020-ci ilin iyul hadisələrində düşmənin Azərbaycan sərhədlərində törətdiyi cinayət hadisələri Elmarı da vətən torpaqlarını işğaldan azad etməyə sövq etmiş, könüllü səfərbərliyə yazılmışdır. Sentyabr ayının 21-də Azərbaycan Ordusunun ehtiyatda olan əsgəri kimi döyüş bölgəsinə yola düşüb. Təlimlərdən sonra Suqovuşanın azad olunması uğrunda aparılan döyüşlərdə iştirak edib, şücaətlər göstərib. Oktyabr ayının 16-da qəhrəmanlıqla şəhid olub. Mingəçevir Şəhidlər Xiyabanında dəfn olunub. Subay idi. Azərbaycan Respubıikasının prezidenti İlham Əliyevin 15 dekabr 2020-ci il tarixli sərəncamı ilə Azərbaycanın ərazi bütövlüyünün təmin edilməsi uğrunda döyüş əməliyyatlarına qatılan və hərbi hissə qarşısında qoyulmuş tapşırıqların icrası zamanı vəzifə borcunu şərəflə yerinə yetirdiyi üçün Elmar İbrahimov (ölümündən sonra) “Vətən uğrunda” medalı ilə təltif edilib."
+  },
+  {
+    "id": 22,
+    "name": "Abdullayev Kənan Mübariz oğlu",
+    "initials": "AK",
+    "birthDate": "03.12.1990",
+    "deathDate": "16.11.2020",
+    "image": "assets/images/heroes/Abdullayev_K__nan.jpg",
+    "mduGraduate": true,
+    "badge": "MDU yetirməsi",
+    "awards": [
+      "Vətən uğrunda"
+    ],
+    "biography": "Abdullayev Kənan Mübariz oğlu 3 dekabr 1990-cı ildə Mingəçevir şəhərində anadan olub. 2012–ci ildə Mingəçevir Dövlət Universitetini İqtisadiyyat ixtisası üzrə bitirib. Müddətli həqiqi hərbi xidmətdə olub.Vətən müharibəsinin iştirakçısı olub, düşmənin darmadağın edilməsi, Azərbaycanın ərazi bütövlüyünün təmin olunması uğrundakı mübarizədə, döyüşlərdə qəhrəmanıqlar göstərib. Leytenant Kənan Abdullayev 16 noyabr 2020-ci il tarixində Talış, Suqovuşan istiqamətində gedən döyüşlərdə qəhrəmancasına şəhid olub. Azərbaycan Respublikasının Prezidenti İlham Əliyevin 15 dekabr 2020-ci il tarixli sərəncamı ilə Azərbaycanın ərazi bütövlüyünün təmin edilməsi uğrunda döyüş əməliyyatlarına qatılan və hərbi hissə qarşısında qoyulmuş tapşırıqların icrası zamanı vəzifə borcunu şərəflə yerinə yetirdiyi üçün Kənan Mübariz oğlu Abdullayev (ölümündən sonra) “Vətən uğrunda” medalı ilə təltif edilib."
+  },
+  {
+    "id": 23,
+    "name": "Əmirov Emil Zaman oğlu",
+    "initials": "ƏE",
+    "birthDate": "09.12.2000",
+    "deathDate": "16.10.2020",
+    "image": "assets/images/heroes/__mirov_Emil.jpg",
+    "mduGraduate": false,
+    "badge": null,
+    "awards": [
+      "Vətən uğrunda",
+      "Suqovuşanın azad olunmasına görə"
+    ],
+    "biography": "Əmirov Emil Zaman oğlu 9 dekabr 2000-ci ildə Mingəçevir şəhərində anadan olub. Uşaqlıqda Moskva şəhərində yaşadıqları üçün orta məktəbə həmin şəhərdə gedib. Sonradan Mingəçevir şəhərində 14 saylı orta məktəbdə oxuyub. 2019-cu il yanvar ayının 23-də müddətli həqiqi hərbi xidmətə yollanıb. Tərxis olunduqdan 2 ay sonra yenidən ordu sıralarında müddətdən artıq hərbi qulluqçu kimi fəaliyyətə başlayıb. 2020-ci ilin 9 avqust tarixindən Tərtər bölgəsində kəşfiyyatçı kimi öz bacarığını göstərib. Vətən müharibəsinin ilk günlərindən döyüşlərdə qəhrəmanlıqlar göstərib. 2020-ci il oktyabr ayının 16-da Suqovuşan-Talış istiqamətində aparılan savaş zamanı, növbəti yüksəkliklərin azad olunması uğrundakı döyüşlərdə minamyot qəlpəsindən yaralanaraq qəhrəmancasına şəhid olub. Subay idi. Mingəçevir Şəhidlər Xiyabanında dəfn olunub. Azərbaycan Respublikasının prezidenti İlham Əliyevin 15 dekabr 2020-ci il tarixli sərəncamı ilə Azərbaycanın ərazi bütövlüyünün təmin edilməsi uğrunda döyüş əməliyyatlarına qatılan və hərbi hissə qarşısında qoyulmuş tapşırıqların icrası zamanı vəzifə borcunu şərəflə yerinə yetirdiyi üçün Emil Əmirov (ölümündən sonra) “Vətən uğrunda” medalı ilə təltif edilib. Azərbaycan Respublikasının prezidenti İlham Əliyevin 29 dekabr 2020-ci il tarixli sərəncamı ilə Azərbaycan Respublikasının Suqovuşan kəndinin işğaldan azad edilməsi uğrunda aparılmış döyüş əməliyyatlarında iştirak edərək igidlik və mərdlik nümunəsi göstərmiş Azərbaycan Respublikası Silahlı Qüvvələrinin hərbi quluqçusu Emil Əmirov (ölümündən sonra) “Suqovuşanın azad olunmasına görə” medalı ilə təltif edilib."
+  },
+  {
+    "id": 24,
+    "name": "İbrahimov Atiq Ariz oğlu",
+    "initials": "İA",
+    "birthDate": "24.06.1990",
+    "deathDate": "16.10.2020",
+    "image": "assets/images/heroes/__brahimov_Atiq.jpg",
+    "mduGraduate": false,
+    "badge": null,
+    "awards": [
+      "Vətən uğrunda",
+      "Cəsur döyüşçü",
+      "Suqovuşanın azad olunmasına görə"
+    ],
+    "biography": "İbrahimov Atiq Ariz oğlu 24 iyun 1990-cı ildə Mingəçevir şəhərində anadan olub. Əvvəl 7 nömrəli orta məktəbdə, sonra isə texniki humanitar liseydə orta təhsil alıb. Türkiyənin Antalya şəhərində Ağ dəniz Universitetində və Ukraynanın Xarkov şəhərindəki Karozin Universitetində ali təhsil alıb. Bir neçə xarici dil bilirdi. “Azərişıq” ASC-nin Ağdaş Elektrik Şəbəkəsində nəzarətçi mühəndis vəzifəsində çalışıb. 2020-ci il sentyabr ayının 20-də könüllülər sırasında səfərbərliyə çağırılıb. Vətən müharibəsində Talış-Suqovuşan-Ağdərənin azad edilməsi uğrunda gedən döyüşlərdə qəhrəmanlıqlar göstərib. 2020-ci il oktyabr ayının 16-da şəhid olub. Mingəçevir Şəhidlər Xiyabanında dəfn olunub. Azərbaycan Respublikasının Prezidenti İlham Əliyevin15 dekabr 2020-ci il tarixli sərəncamı ilə Azərbaycanın ərazi bütövlüyünün təmin edilməsi uğrunda döyüş əməliyyatlarına qatılan və hərbi hissə qarşısında qoyulmuş tapşırıqların icrası zamanı vəzifə borcunu şərəflə yerinə yetirdiyi üçün Atiq İbrahimov (ölümündən sonra) “Vətən uğrunda” medalı ilə təltif edilib. Azərbaycan Respublikasının Prezidenti İlham Əliyevin 18 dekabr 2020-ci il tarixli sərəncamına əsasən Azərbaycan Respublikası ərazilərinin işğaldan azad olunması zamanı döyüş tapşırıqlarını uğurla yerinə yetirmiş, düşmənin əsas qruplaşmalarını və texnikasını məhv etməklə qoşunlarımızın döyüş qabiliyyətinin qorunub saxlanılmasında fərqlənmiş Azərbaycan Respublikası Silahlı Qüvvələrinin hərbi qulluqçusu Atiq İbrahimov (ölümündən sonra) “Cəsur döyüşçü” medalı ilə təltif edilib. Azərbaycan Respublikasının prezidenti İlham Əliyevin 29 dekabr 2020-ci il tarixli sərəncamı ilə Azərbaycan Respublikasının Suqovuşan kəndinin işğaldan azad edilməsi uğrunda aparılmış döyüş əməliyyatlarında iştirak edərək igidlik və mərdlik nümunəsi göstərmiş Alim İbrahomov (ölümündən sonra) “Suqovuşanın azad olunmasına görə” medalı ilə təltif edilib. Subay idi."
+  },
+  {
+    "id": 25,
+    "name": "Əliyev Elman Rakif oğlu",
+    "initials": "ƏE",
+    "birthDate": "23.10.1993",
+    "deathDate": "10.10.2020",
+    "image": "assets/images/heroes/__liyev_Elman.jpg",
+    "mduGraduate": false,
+    "badge": null,
+    "awards": [
+      "Vətən uğrunda",
+      "Suqovuşanın azad olunmasına görə"
+    ],
+    "biography": "Əliyev Elman Rakif oğlu 23 oktyabr 1993-cü ildə Mingəçevir şəhərində anadan olub. 18 nömrəli orta məktəbdə təhsil alıb. Eyni zamanda 2 saylı müsiqi məktəbində muğam təhsili alıb. Qubada müddətli həqiqi hərbi xidmətdə olub. Kür Avarçəkmə bazasında avarçəkmə idmanı ilə məşğul olub. Müxtəlif sahələrdə işləyib. 2018-ci ildə müddətdən artıq hərbi qulluqçu kimi torpaqlarımızın qorunmasında xidmətə başlayıb. Vətən müharibəsinin ilk günlərindən döyüşlərdə qəhrəmanlıqlar göstərib. 2020-ci il oktyabr ayının 10-da Talış-Suqovuşan uğrunda gedən döyüşlərdə qəhrəmanlıqla şəhid olub. Nişanlı idi. Oktyabrın 21-də Mingəçevir Şəhidlər Xiyabanında dəfn olunub. Azərbaycan Respublikasının Prezidenti İlham Əliyevin 15 dekabr 2020-ci il tarixli sərəncamı ilə Azərbaycanın ərazi bütövlüyünün təmin edilməsi uğrunda döyüş əməliyyatlarına qatılan və hərbi hissə qarşısında qoyulmuş tapşırıqların icrası zamanı vəzifə borcunu şərəflə yerinə yetirdiyi üçün Elman Əliyev (ölümündən sonra) “Vətən uğrunda” medalı ilə təltif edilib. Azərbaycan Respublikasının prezidenti İlham Əliyevin 29 dekabr 2020-ci il tarixli sərəncamı ilə Azərbaycan Respublikasının Suqovuşan kəndinin işğaldan azad edilməsi uğrunda aparılmış döyüş əməliyyatlarında iştirak edərək igidlik və mərdlik nümunəsi göstərmiş Azərbaycan Respublikası Silahlı Qüvvələrinin hərbi quluqçusu Elman Rakif oğlu Əliyev (ölümündən sonra) “Suqovuşanın azad olunmasına görə” medalı ilə təltif edilib."
+  },
+  {
+    "id": 26,
+    "name": "Qulamlı Ülvi Şahin oğlu",
+    "initials": "QÜ",
+    "birthDate": "24.05.1994",
+    "deathDate": "21.10.2020",
+    "image": "assets/images/heroes/Qulaml_____lv__.jpg",
+    "mduGraduate": false,
+    "badge": null,
+    "awards": [
+      "Vətən uğrunda"
+    ],
+    "biography": "Qulamlı Ülvi Şahin oğlu 24 may 1994-cü ildə Mingəçevir şəhərində anadan olub. 13 nömrəli orta məktəbdə, sonra isə texniki peşə məktəbində təhsil alıb. 8 il idmanın cüdo növü ilə məşğul olub. 2012-2014-cü illərdə müddətli həqiqi hərbi xidmətdə olub. Hərbi xidməti başa vurub qayıtdıqdan sonra müxtəlif yerlərdə işləyib. Vətən torpaqlarına xidmət etmək kimi şərəfli vəzifədə çalışmaq istəyi ilə ordu sıralarında müddətdən artıq hərbi qulluqçu kimi fəaliyyətə başlayıb. Topçu idi. 2020-ci ildə 44 günlük Vətən müharibəsinin ilk günlərindən döyüşlərdə olub, torpaqlarımızın azad edilməsi uğrundakı döyüşlərdə rəşadətlər göstərib. İlk vaxtlar arxa sırada olması onu qane etməyib, ön sıralara keçmək istəyi təmin edilib. 2020-ci il oktyabr ayının 21-də Suqovuşanın azad edilməsi uğrunda gedən döyüşlərdə şəhid olub. Mingəçevir Şəhidlər Xiyabanında dəfn olunub. Azərbaycan Respublikasının Prezidenti İlham Əliyevin 15 dekabr 2020-ci il tarixli sərəncamı ilə Azərbaycanın ərazi bütövlüyünün təmin edilməsi uğrunda döyüş əməliyyatlarına qatılan və hərbi hissə qarşısında qoyulmuş tapşırıqların icrası zamanı vəzifə borcunu şərəflə yerinə yetirdiyi üçün Ülvi Qulamlı (ölümündən sonra) “Vətən uğrunda” medalı ilə təltif edilib."
+  },
+  {
+    "id": 27,
+    "name": "Əhmədov Yasən Yelmar oğlu",
+    "initials": "ƏY",
+    "birthDate": "16.09.1974",
+    "deathDate": "22.10.2020",
+    "image": "assets/images/heroes/__hm__dov_Yas__n.jpg",
+    "mduGraduate": false,
+    "badge": null,
+    "awards": [
+      "Vətən uğrunda"
+    ],
+    "biography": "Əhmədov Yasən Yelmar oğlu 16 sentyabr 1974-cü ildə Ağdam rayonunun Kosalı kəndində anadan olub. Orta məktəbi bitirən kimi, 1991-ci ildə könüllülər batalyonuna qoşulub. Birinci Qarabağ müharibəsində iştirak edib. Azərbaycan Dövlət Kənd Təsərrüfatı İnstitutunun zoomühəndislik fakültəsini bitirib. 1993-cü ilin aprel ayında müddətli həqiqi hərbi xidmətə çağırılıb. Həmin tarixdən Azərbaycan Ordusunun sıralarında vətənə şərəflə qulluq edib. Baş gizir kimi xidməti dövründə peşəkarlıq və düzgün nizam-intizam nümayiş etdirib. Dəfələrlə medal və fəxri fərmanlarla təltif edilib. 2017-ci ilin iyun ayında mühəndis-istehkam bölüyünün baş texniki vəzifəsinə təyin olunub. Vətən müharibəsində, ikinci Qarabağ savaşıənda torpaqlarımızın azad olunması uğrunda aparılan düyüşlərdə ön xətdə olub. 9 oktyabr 2020-ci ildə Talış yüksəkliyinin azad edilməsi uğrundakı döyüşlərdə ağır yaralanıb, 13 gün komada qalıb, 22 oktyabrda şəhid olub. Ayın 23-də Mingəçevir Şəhidlər Xiyabanında dəfn olunub. Evli idi, iki oğlu var. Azərbaycan Respublikasının Prezidenti İlham Əliyevin 15 dekabr 2020-ci il tarixli sərəncamı ilə Azərbaycanın ərazi bütövlüyünün təmin edilməsi uğrunda döyüş əməliyyatlarına qatılan və hərbi hissə qarşısında qoyulmuş tapşırıqların icrası zamanı vəzifə borcunu şərəflə yerinə yetirdiyi üçün Yasən Əhmədov (ölümündən sonra) “Vətən uğrunda” medalı ilə təltif edilib."
+  },
+  {
+    "id": 28,
+    "name": "İbişov Nicat Vasif oğlu",
+    "initials": "İN",
+    "birthDate": "27.08.2000",
+    "deathDate": "09.10.2020",
+    "image": "assets/images/heroes/__bi__ov_Nicat.jpg",
+    "mduGraduate": false,
+    "badge": null,
+    "awards": [
+      "Vətən uğrunda",
+      "Suqovuşanın azad olunmasına görə"
+    ],
+    "biography": "İbişov Nicat Vasif oğlu 27 avqust 2000-ci ildə Mingəçevir şəhərində anadan olub. 2006-2017-ci illərdə energetiklər qəsəbəsindəki 19 nömrəli orta məktəbdə təhsil alıb. 2018-ci ildə müddətli həqiqi hərbi xidmətə yola düşüb. Müdafiə Nazirliyinin “N” saylı hərbi hissəsində sülhməramlı qoşununun mühafizə xidmətində qulluq edib. 2020-ci ilin aprel ayında xidmətdən tərxis olunub. 2020-ci ilin sentyabr ayında səfərbərliyə çağırılıb, Vətən müharibəsinə yollanıb. Suqovuşanın azad edilməsi uğrunda aparılan döyüşlərdə şücaətlər göstərib. 2020-ci il oktyabr ayının 9-da Ağdərənin azad edilməsi uğrunda gedən döyüşlərdə şəhid olub. Subay idi. Oktyabr ayının 25-də Mingəçevir Şəhidlər Xiyabanında dəfn olunub. Azərbaycan Respublikasının Prezidenti İlham Əliyevin 15 dekabr 2020-ci il tarixli sərəncamı ilə Azərbaycanın ərazi bütövlüyünün təmin edilməsi uğrunda döyüş əməliyyatlarına qatılan və hərbi hissə qarşısında qoyulmuş tapşırıqların icrası zamanı vəzifə borcunu şərəflə yerinə yetirdiyi üçün Nicat İbişov (ölümündən sonra) “Vətən uğrunda” medalı ilə təltif edilib. Azərbaycan Respublikasının prezidenti İlham Əliyevin 29 dekabr 2020-ci il tarixli sərəncamı ilə Azərbaycan Respublikasının Suqovuşan kəndinin işğaldan azad edilməsi uğrunda aparılmış döyüş əməliyyatlarında iştirak edərək igidlik və mərdlik nümunəsi göstərmiş Azərbaycan Respublikası Silahlı Qüvvələrinin hərbi quluqçusu Nicat İbişov (ölümündən sonra) “Suqovuşanın azad olunmasına görə” medalı ilə təltif edilib."
+  },
+  {
+    "id": 29,
+    "name": "Məmmədov Rövşən Müşfiq oğlu",
+    "initials": "MR",
+    "birthDate": "29.10.1995",
+    "deathDate": "13.10.2020",
+    "image": "assets/images/heroes/M__mm__dov_R__v____n.jpg",
+    "mduGraduate": false,
+    "badge": null,
+    "awards": [],
+    "biography": "Məmmədov Rövşən Müşfiq oğlu 29 oktyabr 1995-ci ildə Mingəçevir şəhərində anadan olub. Ailə üzvləri bir müddət, yəni 1999-2007-ci illərdə Rusiyanın Volqoqrad şəhərində yaşayıb. 2002-ci ildə həmin şəhərin 37 nömrəli tam orta məktəbində ibtidai təhsil alıb. 2007-ci ildə ailə Azərbaycana qayıdıb. 2013-ci ildə Sumqayıt şəhərindəki 4 nömrəli tam orta məktəbi uğurla bitirərək Azərbaycan Dövlət Neft Akademiyasının geofizika mühəndisliyi fakültəsinə daxil olub. 2017-ci ildə oranı bitirib, mühəndis ixtisasına yiyələnib. 2017-2018-ci illərdə Naxçıvan şəhərinin “N” saylı hərbi hissəsində müddətli həqiqi hərbi xidmətdə olub. 2018-ci ildə əmək fəaliyyətinə Sumqayıt şəhərindəki"
+  },
+  {
+    "id": 30,
+    "name": "Həsənov Əzim Fikrət oğlu",
+    "initials": "HƏ",
+    "birthDate": "13.06.1998",
+    "deathDate": "08.10.2020",
+    "image": "assets/images/heroes/H__s__nov___zim.jpg",
+    "mduGraduate": false,
+    "badge": null,
+    "awards": [
+      "Vətən uğrunda",
+      "Füzulinin azad olunmasına görə"
+    ],
+    "biography": "Həsənov Əzim Fikrət oğlu 13 iyun 1998-ci ildə Balakən rayonunda anadan olub. 2004-2015-ci illərdə müvəqqəti məskunlaşdıqları Mingəçevir şəhərində 19 nömrəli orta məktəbdə təhsil alıb. Həmin il Azərbaycan Dillər Universitetinə daxil olub. Ali təhsili başa vurduqdan sonra müddətli həqiqi hərbi xidmətə yola düşüb. Paytaxtda xidmət etsə də könüllü olaraq həmin tabordan döyüşlərə qatılıb. 2020-ci ilin sentyabr ayının 27-də, Vətən müharibəsi başlanan gündən cəbhədə kəşfiyyatçı kimi xidmətini davam etdirib. Cəbrayıl, Horadiz, Füzuli istiqamətlərində gedən döyüşlərdə igidliklə döyüşb. Qızğın döyüşlər zamanı qəhrəmanlıqlar göstərib, əsgər yoldaşlarını mühasirədən çıxarıb. 8 oktyabr 2020-ci ildə Füzulinin Seyidəhmədli kəndi yaxınlığındakı döyüşlərdə yaralı əsgər yoldaşını xilas edərkən düşmən gülləsinə tuş gəlib, şəhid olub. Ayın 30-da Mingəçevir Şəhidlər Xiyabanında dəfn olunub. Subay idi. Azərbaycan Respublikasının Prezidenti İlham Əliyevin 15 dekabr 2020-ci il tarixli sərəncamı ilə Azərbaycanın ərazi bütövlüyünün təmin edilməsi uğrunda döyüş əməliyyatlarına qatılan və hərbi hissə qarşısında qoyulmuş tapşırıqların icrası zamanı vəzifə borcunu şərəflə yerinə yetirdiyi üçün Əzim Həsənov (ölümündən sonra) “Vətən uğrunda” medalı ilə təltif edilib. Azərbaycan Respublikasının Prezidenti İlham Əliyevin 25 dekabr 2020-ci il tarixli sərəncamına əsasən Azərbaycan Respublikasının Füzuli rayonunun işğaldan azad edilməsi uğrunda aparılmış döyüş əməliyyatlarında iştirak edərək şəxsi igidlik və şücaət nümayiş etdirmiş Azərbaycan Respublikası Silahlı Qüvvələrinin hərbi quluqçusu Əzim Həsənov (ölümündən sonra) “Füzulinin azad olunmasına görə” medalı ilə təltif edilib."
+  },
+  {
+    "id": 31,
+    "name": "Elyasov Cəfər Yavər oğlu",
+    "initials": "EC",
+    "birthDate": "30.09.2000",
+    "deathDate": "30.10.2020",
+    "image": "assets/images/heroes/Elyasov_C__f__r.jpg",
+    "mduGraduate": false,
+    "badge": null,
+    "awards": [
+      "Vətən uğrunda"
+    ],
+    "biography": "Elyasov Cəfər Yavər oğlu 30 sentyabr 2000-ci ildə Mingəçevir şəhərində anadan olub. 2006-2015-ci illərdə 14 nömrəli orta məktəbdə təhsil alıb. Peşə məktəbində elektrik montyoru peşəsinə yiyələnib. 2019-2020-ci illərdə Azərbaycan Silahlı Qüvvələrinin Abşeron rayonunda yerləşən “N” saylı hərbi hissəsində müddətli həqiqi hərbi xidmətdə olub. Azərbaycan Ordusunun əsgəri kimi 2020-ci il sentyabr ayının 27-dən Azərbaycan Silahlı Qüvvələri tərəfindən Ermənistanın işğal etdiyi ərazilərin azad edilməsi üçün başlanan Vətən müharibəsində Füzulinin alınması uğrunda gedən döyüşlərdə iştirak edib. 2020-ci il oktyabr ayının 30-da Füzulidə Aşağı Əhmədlidə gedən döyüşlər zamanı şəhid olub. Mingəçevir Şəhidlər Xiyabanında dəfn olunub. Azərbaycan Respublikasının prezidenti İlham Əliyevin 15 dekabr 2020-ci il tarixli sərəncamı ilə Azərbaycanın ərazi bütövlüyünün təmin edilməsi uğrunda döyüş əməliyyatlarına qatılan və hərbi hissə qarşısında qoyulmuş tapşırıqların icrası zamanı vəzifə borcunu şərəflə yerinə yetirdiyi üçün Cəfər Elyasov (ölümündən sonra) “Vətən uğrunda” medalı ilə təltif edilib. Subay idi."
+  },
+  {
+    "id": 32,
+    "name": "İbrahimov Alim Səhrab oğlu",
+    "initials": "İA",
+    "birthDate": "26.12.1993",
+    "deathDate": "2020",
+    "image": "assets/images/heroes/__brahimov_Alim.jpg",
+    "mduGraduate": false,
+    "badge": null,
+    "awards": [
+      "Vətən uğrunda",
+      "Suqovuşanın azad olunmasına görə"
+    ],
+    "biography": "İbrahimov Alim Səhrab oğlu 26 dekabr 1993-cü ildə Ucar rayonunun Qazıqumlaq kəndində anadam olub. 2001-2010-cu illərdə Mingəçevir şəhərində energetiklər qəsəbəsində 4 nömrəli orta məktəbdə təhsil alıb. Həmçinin 2 saylı Bülbül adına musiqi məktəbində qarmon ixtisası üzrə təhsil alıb. 2010-2014-cü illərdə Milli Konservatoriyanın nəzdindəki musiqi kollecində təhsil alaraq qarmon müəllimi ixtisasına yiyələnib. 2014-2016-cı illərdə “N” saylı hərbi hissədə müddətli həqiqi hərbi xidmətdə olub. Sonra musiqi müəllimi kimi fəaliyyətə başlayıb. 2020-ci ilin 29 sentyabrında Mingəçevir şəhər hərbi komissarlığı tərəfindən səfərbərliyə çağırılıb. Vətən müharibəsində Ağdərə-Tərtər istiqamətində gedən döyüşlərdə gəhrəmanlıqlar göstərib. Suqovuşanın azad olunması uğrunda aparılan döyüşlərdə şəhid olub. Mingəçevir Şəhidlər Xiyabanında dəfn olunub. Subay idi. Azərbaycan Respublikasının Prezidenti İlham Əliyevin 15 dekabr 2020-ci il tarixli sərəncamı ilə Azərbaycanın ərazi bütövlüyünün təmin edilməsi uğrunda döyüş əməliyyatlarına qatılan və hərbi hissə qarşısında qoyulmuş tapşırıqların icrası zamanı vəzifə borcunu şərəflə yerinə yetirdiyi üçün Alim İbrahimov (ölümündən sonra) “Vətən uğrunda” medalı ilə təltif edilib. Azərbaycan Respublikasının prezidenti İlham Əliyevin 29 dekabr 2020-ci il tarixli sərəncamı ilə Azərbaycan Respublikasının Suqovuşan kəndinin işğaldan azad edilməsi uğrunda aparılmış döyüş əməliyyatlarında iştirak edərək igidlik və mərdlik nümunəsi göstərmiş Alim İbrahimov (ölümündən sonra) “Suqovuşanın azad olunmasına görə” medalı ilə təltif edilib."
+  },
+  {
+    "id": 33,
+    "name": "Həsənov Musa Tapdıq oğlu",
+    "initials": "HM",
+    "birthDate": "24.11.1995",
+    "deathDate": "29.09.2020",
+    "image": "assets/images/heroes/H__s__nov_Musa.jpg",
+    "mduGraduate": false,
+    "badge": null,
+    "awards": [
+      "Vətən uğrunda",
+      "Suqovuşanın azad olunmasına görə"
+    ],
+    "biography": "Həsənov Musa Tapdıq oğlu 24 noyabr 1995-ci ildə Mingəçevir şəhərində anadan olub. 15 nömrəli orta məktəbdə oxuyub. Mingəçevir Turizm Kollecinin menecerlik fakültəsini bitirib. 2014-2015-ci illərdə Azəbaycanın Daşkəsən bölgəsində müddətli həqiqi hərbi xidmətdə olub. Kiçik çavuş idi. 2020-ci il sentyabr ayının 21-də Azərbaycan Ordusunun ehtiyatda olan əsgəri kimi səfərbərliyə çağırılıb. Vətən müharibəsinin ilk günlərindən Talış-Suqovuşanın azad olunması uğrundakı döyüşlərdə iştirak edib. Sentyabr ayının 29-da tankın içində 5 yoldaşı ilə birlikdə yanaraq şəhid olub. Şəhidin nəşi neytral bölgədə qaldığı üçün noyabr ayının 5-də Mingəçevir Şəhidlər Xiyabanında dəfn olunub. Evli idi, iki qızı var. Azərbaycan Respublikasının prezidenti İlham Əliyevin 15 dekabr 2020-ci il tarixli sərəncamı ilə Azərbaycanın ərazi bütövlüyünün təmin edilməsi uğrunda döyüş əməliyyatlarına qatılan və hərbi hissə qarşısında qoyulmuş tapşırıqların icrası zamanı vəzifə borcunu şərəflə yerinə yetirdiyi üçün Musa Həsənov (ölümündən sonra) “Vətən uğrunda” medalı ilə təltif edilib. Azərbaycan Respublikasının prezidenti İlham Əliyevin 29 dekabr 2020-ci il tarixli sərəncamı ilə Azərbaycan Respublikasının Suqovuşan kəndinin işğaldan azad edilməsi uğrunda aparılmış döyüş əməliyyatlarında iştirak edərək igidlik və mərdlik nümunəsi göstərmiş Musa Həsənov (ölümündən sonra) “Suqovuşanın azad olunmasına görə” medalı ilə təltif edilib."
+  },
+  {
+    "id": 34,
+    "name": "Həsənov Tural Tapdıq oğlu",
+    "initials": "HT",
+    "birthDate": "16.07.1994",
+    "deathDate": "02.10.2020",
+    "image": "assets/images/heroes/H__s__nov_Tural.jpg",
+    "mduGraduate": false,
+    "badge": null,
+    "awards": [
+      "Vətən uğrunda",
+      "Suqovuşanın azad olunmasına görə"
+    ],
+    "biography": "Həsənov Tural Tapdıq oğlu 16 iyul 1994-cü ildə Mingəçevir şəhərində anadan olub. 15 nömrəli orta məktəbdə oxuyub. Mingəçevir Turizm Kollecinin bədən tərbiyəsi fakültəsini bitirib. 2012-2013-cü illərdə müddətli həqiqi hərbi xidmətdə olub. 2020-ci il sentyabr ayının 21-də ehtiyatda olan əsgər kimi səfərbərliyə çağırılıb. Goranboy bölgəsində təlim keçdikdən sonra sentyabr ayının 27-də başlanan Vətən müharibəsinə yollanıb. Anası, əzizləri ilə son danışığı sentyabr ayının 29-da olub. “N” saylı hərbi hissəsinin kiçik çavuşu kimi Talış-Suqovuşanın azad olunması uğrundakı döyüşlərdə qəhrəmanlıqlar göstərib. 2 oktyabr 2020-ci ildə Ballı Qaya yaxınlığında Ağ uçuq uğrunda gedən döyüşlərdə şəhid olub. Şəhidin nəşi neytral bölgədə qaldığı üçün dekabr ayının 9-da Mingəçevir Şəhidlər xiyabanında dəfn olunub. Evli idi, iki oğlu var. Azərbaycan Respublikasının prezidenti İlham Əliyevin 15 dekabr 2020-ci il tarixli sərəncamı ilə Azərbaycanın ərazi bütövlüyünün təmin edilməsi uğrunda döyüş əməliyyatlarına qatılan və hərbi hissə qarşısında qoyulmuş tapşırıqların icrası zamanı vəzifə borcunu şərəflə yerinə yetirdiyi üçün Tural Həsənov (ölümündən sonra) “Vətən uğrunda” medalı ilə təltif edilib. Azərbaycan Respublikasının prezidenti İlham Əliyevin 29 dekabr 2020-ci il tarixli sərəncamı ilə Azərbaycan Respublikasının Suqovuşan kəndinin işğaldan azad edilməsi uğrunda aparılmış döyüş əməliyyatlarında iştirak edərək igidlik və mərdlik nümunəsi göstərmiş Tural Həsənov (ölümündən sonra) “Suqovuşanın azad olunmasına görə” medalı ilə təltif edilib."
+  },
+  {
+    "id": 35,
+    "name": "Xankişiyev Fuad Şöhrət oğlu",
+    "initials": "XF",
+    "birthDate": "12.04.1996",
+    "deathDate": "03.11.2020",
+    "image": "assets/images/heroes/Xanki__iyev_Fuad.jpg",
+    "mduGraduate": false,
+    "badge": null,
+    "awards": [
+      "Vətən uğrunda",
+      "Xocavəndin azad olunmasına görə",
+      "Füzulinin azad olunmasına görə"
+    ],
+    "biography": "Xankişiyev Fuad Şöhrət oğlu 12 aprel 1996-cı ildə Mingəçevir şəhərində anadan olub. 2002-2008-ci illərdə 3 nömrəli orta məktəbdə təhsil alıb. Məktəb illərində idmanın cüdo növü ilə məşğul olub. Bakı Olimpiya İdman liseyində təhsilini davam etdirərək 2011-ci ildə müvəffəqiyyətlə başa vurub. 2011-2014-cü illərdə Mingəçevir Turizm Kollecində bədən tərbiyəsi fakültəsində təhsil alıb. O, həm də həvəskar dizayn dekor işləri ilə məşğul olub. 2014-2016-cı illərdə Tovuz bölgəsində müddətli həqiqi hərbi xidmətdə olub. Silahlı qüvvələrin ehtiyatda olan əsgəri kimi səfərbərliyə çağrılan Fuad 2020-ci il sentyabrın 27-də başlanan Vətən müharibəsində iştirak edib. Füzuli və Xocavəndin azad olunması uğrundakı döyüşlərdə qəhrəmanlıqlar göstərib. 2020-ci ilin noyabrın 3-də Xocalı rayonunun Çanaqçı kəndi uğrundakı döyüşlərdə şəhid olub. Noyabrın 6-da Mingəçevir Şəhidlər Xiyabanında dəfn olunub. Subay idi. Azərbaycan Respublikasının prezidenti İlham Əliyevin 15 dekabr 2020-ci il tarixli sərəncamı ilə Azərbaycanın ərazi bütövlüyünün təmin edilməsi uğrunda döyüş əməliyyatlarına qatılan və hərbi hissə qarşısında qoyulmuş tapşırıqların icrası zamanı vəzifə borcunu şərəflə yerinə yetirdiyi üçün Fuad Xankişiyev (ölümündən sonra) “Vətən uğrunda” medalı ilə təltif edilib. Azərbaycan Respublikasının prezidenti İlham Əliyevin 25 dekabr 2020-ci il tarixli sərəncamına əsasən Azərbaycan Respublikasının Xocavənd rayonunun işğaldan azad edilməsi uğrunda aparılmış döyüş əməliyyatlarında iştirak edərək şəxsi igidlik və şücaət nümayiş etdirmiş Azərbaycan Respubilkası Silahlı Qüvvələrinin hərbi qulluqçusu Fuad Xankişiyev (ölümündən sonra) “Xocavəndin azad olunmasına görə” medalı ilə təltif olunub. Azərbaycan Respublikasının Prezidenti İlham Əliyevin 25 dekabr 2020-ci il tarixli sərəncamı ilə Füzuli rayonunun işğaldan azad edilməsi uğrunda aparılmış döyüş əməliyyatlarında iştirak edərək şəxsi igidlik və şücaət nümayiş etdirmiş Azərbaycan Respublikası Silahlı Qüvvələrinin hərbi qulluqçusu Fuad Şöhrət oğlu Xankişiyev (ölümündən sonra) “Füzulinin azad olunmasına görə” medalı ilə təltif edilib."
+  },
+  {
+    "id": 36,
+    "name": "Orucov Tural Əmir oğlu",
+    "initials": "OT",
+    "birthDate": "31.12.1993",
+    "deathDate": "2020",
+    "image": "assets/images/heroes/Orucov_Tural.jpg",
+    "mduGraduate": false,
+    "badge": null,
+    "awards": [
+      "Vətən uğrunda",
+      "Qubadlının azad olunmasına görə"
+    ],
+    "biography": "Orucov Tural Əmir oğlu 31 dekabr 1993-cü ildə Yevlax rayonunun Havarlı kəndində anadan olub. 1988-ci ildə Qərbi Azərbaycandan qaçqın düşən ailə çox çətinliklərlə üzləşib. Mingəçevir şəhərində internat məktəbində təhsil alıb. 2011-13-cü illərdə müddətli həqiqi hərbi xidmətdə olub. Silahlı Qüvvələrin ehtiyatda olan əsgəri kimi 2020-ci il sentyabr ayının 30-da səfərbərliyə çağırılıb. Füzulinin azad olunması, Şuşa-Laçın uğrundakı savaşlarda qəhrəmanlıqlar göstərib. Düşmənlə 1,5 saatdan artıq gedən açıq döyüşdə yanında şəhid olan yoldaşının qisasını almaq üçün ayağa qalxıb, əlində PK düşmənə tərəf hücumları zamanı Laçın dəhlizində şəhid olub. Mingəçevir Şəhidlər Xiyabanında dəfn olunub. Subay idi. Azərbaycan Respublikasının prezidenti İlham Əliyevin 15 dekabr 2020-ci il tarixli sərəncamı ilə Azərbaycanın ərazi bütövlüyünün təmin edilməsi uğrunda döyüş əməliyyatlarına qatılan və hərbi hissə qarşısında qoyulmuş tapşırıqların icrası zamanı vəzifə borcunu şərəflə yerinə yetirdiyi üçün Tural Orucov (ölümündən sonra) “Vətən uğrunda” medalı ilə təltif edilib. Azərbaycan Respublikasının Prezidenti İlham Əliyevin 29 dekabr 2020-ci il tarixli sərəncamı ilə Qubadlı rayonunun işğaldan azad edilməsi uğrunda aparılmış döyüş əməliyyatlarında iştirak edərək şəxsi igidlik və şücaət nümayiş etdirmiş Azərbaycan Respublikası Silahlı Qüvvələrinin hərbi qulluqçusu Tural Əmir oğlu Orucov (ölümündən sonra) “Qubadlının azad olunmasına görə” medalı ilə təltif edilib."
+  },
+  {
+    "id": 37,
+    "name": "Nəcəfli Oruc Rövşən oğlu",
+    "initials": "NO",
+    "birthDate": "06.11.1989",
+    "deathDate": "06.11.2020",
+    "image": "assets/images/heroes/N__c__fli_Oruc.jpg",
+    "mduGraduate": true,
+    "badge": "MDU yetirməsi",
+    "awards": [
+      "Vətən uğrunda"
+    ],
+    "biography": "Nəcəfli Oruc Rövşən oğlu 6 noyabr 1989-cu ildə Mingəçevir şəhərində anadan olub. 1996-2007-ci illərdə Nizami Gəncəvi adına 8 nömrəli orta məktəbdə oxuyub. 2011-ci ildə Mingəçevir Dövlət Universitetini mühəndislik ixtisası üzrə başa vurduqdan sonra müddətli həqiqi hərbi xidmətə yola düşüb. Hərbi xidmətini başa vurduqdan sonra əmək fəaliyyətinə başlayıb. Vətən müharibəsində, torpaqlarımızın işğaldan azad edilməsi uğrunda gedən döyüşlərdə şücaətlər göstərib. Əsgər Oruc Nəcəfli 6 noyabr 2020-ci tarixində Ağdərə rayonu istiqamətində gedən döyüşlərdə qəhrəmancasına şəhid olub. Mingəçevir şəhidlər xiyabanında dəfn olunub. Azərbaycan Respublikasının Prezidenti İlham Əliyevin 15 dekabr 2020-ci il tarixli sərəncamı ilə Azərbaycanın ərazi bütövlüyünün təmin edilməsi uğrunda döyüş əməliyyatlarına qatılan və hərbi hissə qarşısında qoyulmuş tapşırıqların icrası zamanı vəzifə borcunu şərəflə yerinə yetirdiyi üçün Nəcəfli Oruc Rövşən oğlu (ölümündən sonra) “Vətən uğrunda” medalı ilə təltif edilib."
+  },
+  {
+    "id": 38,
+    "name": "İbrahimzadə Nahid Şahid oğlu",
+    "initials": "İN",
+    "birthDate": "01.11.1994",
+    "deathDate": "05.11.2020",
+    "image": "assets/images/heroes/__brahimzad___Nahid.jpg",
+    "mduGraduate": false,
+    "badge": null,
+    "awards": [
+      "Vətən uğrunda",
+      "Şuşanın azad olunmasına görə"
+    ],
+    "biography": "İbrahimzadə Nahid Şahid oğlu 1 noyabr 1994-cü ildə Ağdaşın Kotavan kəndində anadan olub. Orta təhsil aldıqdan sonra müddətli həqiqi hərbi xidmətdə olub. Müxtəlif yerlərdə işləyib. 2020-ci il sentyabr ayının 29-da Azərbaycan ordusunun ehtiyatda olan əsgəri kimi səfərbərliyə çağırılıb. Vətən müharibəsinin ilk günlərindən düşmənə qarşı mübarizədə, torpaqlarmızın azad olunması uğrundakı döyüşlərdə qəhrəmanlıqlar göstərib. Füzuli, Hadrut, Şuşa döyüşlərində iştirak edib. 2020-ci il noyabr ayının 5-də axşam saat 6 radələrində Şuşa döyüşləri zamanı düşmən gülləsinə tuş gələrək şəhid olub. Mingəçevir Şəhidlər Xiyabanında dəfn olunub. Evli idi, iki övladı var. Azərbaycan Respublikasının Prezidenti İlham Əliyevin 15 dekabr 2020-ci il tarixli sərəncamı ilə Azərbaycanın ərazi bütövlüyünün təmin edilməsi uğrunda döyüş əməliyyatlarına qatılan və hərbi hissə qarşısında qoyulmuş tapşırıqların icrası zamanı vəzifə borcunu şərəflə yerinə yetirdiyi üçün Nahid İbrahimzadə (ölümündən sonra) “Vətən uğrunda” medalı ilə təltif edilib. Azərbaycan Respublikasının Prezidenti İlham Əliyevin 29 dekabr 2020-ci il tarixli sərəncamı ilə Şuşa şəhərinin işğaldan azad edilməsi uğrunda aparılmış döyüş əməliyyatlarında iştirak edərək şəxsi igidlik və şücaət nümayiş etdirmiş Nahid İbrahimzadə (ölümündən sonra) “Şuşanın azad olunmasına görə” medalı ilə təltif edilib."
+  },
+  {
+    "id": 39,
+    "name": "Mahmudov Etibar Aleksandr oğlu",
+    "initials": "ME",
+    "birthDate": "02.04.1987",
+    "deathDate": "08.11.2020",
+    "image": "assets/images/heroes/Mahmudov_Etibar.jpg",
+    "mduGraduate": false,
+    "badge": null,
+    "awards": [
+      "Vətən uğrunda",
+      "Cəbrayılın azad olunmasına görə",
+      "Qubadlının azad olunmasına görə"
+    ],
+    "biography": "Mahmudov Etibar Aleksandr oğlu 2 aprel 1987-ci ildə Mingəçevir şəhərində anadan olub. Atasını uşaq yaşlarından itirdiyindən natamam orta təhsil alıb. Uşaq yaşlarından ailənin, anası və bacı qardaşlarının dolanışığı üçün bacardığı köməkliyi göstərib. Daim işləyib, əməklə məşğul olub. Müddətli həqiqi hərbi xidmətini Bakı şəhərində yerləşən qospitalda keçib. Nümunəvi xidmətinə görə fəxri fərmanlara layiq görülüb. 2006-cı ildə Silahlı Qüvvələrin yaradılmasının ildönümünə və nümunəvi xidmətlərinə görə fəxri fərmana layiq görülüb. Torpaqlarımızın müdafiəsi, azad olunması üçün səfərbərliyə yazılıb. 2020-ci ilin oktyabr ayında Vətən müharibəsinə yollanıb. Noyabrın 8-də Qubadll-Laçın istiqamətlərinin azad olunması uğrundakı döyüşlərdə şəhid olub. Mingəçevir Şəhidlər Xiyabanında dəfn olunub. Subay idi. Azərbaycan Respublikasının Prezidenti İlham Əliyevin 15 dekabr 2020-ci il tarixli sərəncamı ilə Azərbaycanın ərazi bütövlüyünün təmin edilməsi uğrunda döyüş əməliyyatlarına qatılan və hərbi hissə qarşısında qoyulmuş tapşırıqların icrası zamanı vəzifə borcunu şərəflə yerinə yetirdiyi üçün Etibar Mahmudov (ölümündən sonra) “Vətən uğrunda” medalı ilə təltif edilib. Azərbaycan Respublikasının Prezidenti İlham Əliyevin 24 dekabr 2020-ci il tarixli sərəncamı ilə Cəbrayıl rayonunun işğaldan azad edilməsi uğrunda aparılmış döyüş əməliyyatlarında iştirak edərək şəxsi igidlik və şücaət nümayiş etdirmiş Azərbaycan Respublikası Silahlı Qüvvələrinin hərbi qulluqçusu Etibar Mahmudov (ölümündən sonra) “Cəbrayılın azad olunmasına görə” medalı ilə təltif edilib. Azərbaycan Respublikasının Prezidenti İlham Əliyevin 29 dekabr 2020-ci il tarixli sərəncamı ilə Qubadlı rayonunun işğaldan azad edilməsi uğrunda aparılmış döyüş əməliyyatlarında iştirak edərək şəxsi igidlik və şücaət nümayiş etdirmiş Azərbaycan Respublikası Silahlı Qüvvələrinin hərbi qulluqçusu Etibar Mahmudov (ölümündən sonra) “Qubadlının azad olunmasına görə” medalı ilə təltif edilib."
+  },
+  {
+    "id": 40,
+    "name": "Abbasov Elcan Əfsəddin oğlu",
+    "initials": "AE",
+    "birthDate": "23.09.2000",
+    "deathDate": "Noyabr 2020",
+    "image": "assets/images/heroes/Abbasov_Elcan.jpg",
+    "mduGraduate": false,
+    "badge": null,
+    "awards": [
+      "Vətən uğrunda",
+      "Şuşanın azad olunmasına görə",
+      "Kəlbəcərin azad olunmasına görə"
+    ],
+    "biography": "Abbasov Elcan Əfsəddin oğlu 23 sentyabr 2000-ci ildə Mingəçevir şəhərində anadan olub. Əvvəl 6, sonra isə 14 saylı orta məktəblərdə oxuyub. Ü.Hacıbəyov adına 11 illik musiqi məktəbində qarmon ixtisası üzrə təhsil alıb. İdmanın yunan-roma güləşi növü ilə məşğul olub. Bir çox idman yarışlarında qələbələr əldə etmiş, fəxri fərman və diplomlara layiq görülmüşdü. 2018-ci ilin oktyabr ayında müddətli həqiqi hərbi xidmətə yola düşüb. Tovuzda xidmət edib. 2019-cu ilin dekabr ayında xüsusi təyinatlı hərbi qoşun hissəsinə kursa göndərilib. Vətən müharibəsinin ilk günlərindən döyüşlərdə iştirak edib. Qubadlı, Kəlbəcər, Hadrutun azad olunması uğrundakı döyüşlərdə qəhrəmanlıqlar göstərib. 2020-ci il noyabrın əvvəllərində Şuşanın azad olunması uğrundakı döyüşlərdə şəhid olub. 11 noyabrda Mingəçevir Şəhidlər Xiyabanında dəfn olunub. Subay idi. Mingəçevir Şəhidlər Xiyabanında dəfn olunub. Azərbaycan Respublikasının Prezidenti İlham Əliyevin 15 dekabr 2020-ci il tarixli sərəncamı ilə Azərbaycanın ərazi bütövlüyünün təmin edilməsi uğrunda döyüş əməliyyatlarına qatılan və hərbi hissə qarşısında qoyulmuş tapşırıqların icrası zamanı vəzifə borcunu şərəflə yerinə yetirdiyi üçün Elcan Abbasov (ölümündən sonra) “Vətən uğrunda” medalı ilə təltif edilib. Azərbaycan Respublikasının Prezidenti İlham Əliyevin 29 dekabr 2020-ci il tarixli sərəncamı ilə Şuşa şəhərinin işğaldan azad edilməsi uğrunda aparılmış döyüş əməliyyatlarında iştirak edərək şəxsi igidlik və şücaət nümayiş etdirmiş Elcan Abbasov (ölümündən sonra) “Şuşanın azad olunmasına görə” medalı ilə təltif edilib. Azərbaycan Respublikasının Prezidenti İlham Əliyevin 29 dekabr 2020-ci il tarixli sərəncamı ilə Kəlbəcər rayonunun işğaldan azad edilməsi uğrunda aparılmış döyüş əməliyyatlarında iştirak edərək şəxsi igidlik və şücaət nümayiş etdirmiş Azərbaycan Respublikası Silahlı Qüvvələrinin hərbi qulluqçusu Elcan Abbasov (ölümündən sonra) “Kəlbəcərin azad olunmasına görə” medalı ilə təltif edilib."
+  },
+  {
+    "id": 41,
+    "name": "Həsənov Ülvi Natiq oğlu",
+    "initials": "HÜ",
+    "birthDate": "31.12.2001",
+    "deathDate": "Noyabr 2020",
+    "image": "assets/images/heroes/H__s__nov___lv__.jpg",
+    "mduGraduate": false,
+    "badge": null,
+    "awards": [
+      "Vətən uğrunda",
+      "Şuşanın azad olunmasına görə"
+    ],
+    "biography": "Həsənov Ülvi Natiq oğlu 31 dekabr 2001-ci ildə Mingəçevir şəhərində anadan olub. 17 nömrəli orta məktəbdə oxuyub. İdmanın avarçəkmə növü ilə məşğul olub, şahmatı da sevirdi. İdman yarışlarında iştirak edib. 2019 cu ildə Ağdam Maliyyə Kollecinə daxil olub. Təhsilini yarımçıq qoyaraq 2020-ci il yanvarın 16-da müddətli həqiqi həqiqi xidmətə yola düşüb. Beyləqanda qulluq edib. Vətən müharibəsinin ilk günlərindən bölgəyə gəliblər. Füzulinin, Cəbrayılın azad olunması uğrundakı döyüşlərdə düşmənə qarşı qəhrəmanlıqla döyüşüb. 2020-ci il noyabr ayının əvvəllərində Şuşanın azad olunması uğrunda gedən döyüşlərdə 18 yaşında qəhrəmanlıqla şəhid olub. Noyabrın 12-də Mingəçevir Şəhidlər Xiyabanında dəfn olunub. Subay idi. Azərbaycan Respubluikasının prezidenti İlham Əliyevin 15 dekabr 2020-ci il tarixli sərəncamı ilə Azərbaycanın ərazi bütövlüyünün təmin edilməsi uğrunda döyüş əməliyyatlarına qatılan və hərbi hissə qarşısında qoyulmuş tapşırıqların icrası zamanı vəzifə borcunu şərəflə yerinə yetirdiyi üçün Ülvi Həsənov (ölümündən sonra) “Vətən uğrunda” medalı ilə təltif edilib. Azərbaycan Respublikasının Prezidenti İlham Əliyevin 29 dekabr 2020-ci il tarixli sərəncamı ilə Şuşa şəhərinin işğaldan azad edilməsi uğrunda aparılmış döyüş əməliyyatlarında iştirak edərək şəxsi igidlik və şücaət nümayiş etdirmiş Azərbaycan Respublikası Silahlı Qüvvələrinin hərbi qulluqçusu Ülvi Həsənov (ölümündən sonra) “Şuşanın azad olunmasına görə” medalı ilə təltif edilib."
+  },
+  {
+    "id": 42,
+    "name": "Rüstəmzadə Emin Firqət oğlu",
+    "initials": "RE",
+    "birthDate": "23.02.1991",
+    "deathDate": "18.10.2020",
+    "image": "assets/images/heroes/R__st__mzad___Emin.jpg",
+    "mduGraduate": false,
+    "badge": null,
+    "awards": [
+      "Vətən uğrunda"
+    ],
+    "biography": "Rüstəmzadə Emin Firqət oğlu 23 fevral 1991-ci ildə Mingəçevir şəhərində anadan olub. V.Ağakişiyev adına 12 nömrəli orta məktəbdə oxuyub. 2009-2012- ci illərdə Beyləqanda müddətli həqiqi hərbi xidmətdə olub. Mingəçevir şəhər Mətbuatyayımı idarəsində, daha sonra isə qaz istismar idarəsində işləyib. 2020-ci il sentyabr ayının 21 də Azərbaycan Ordusunun ehtiyatda olan əsgəri kimi səfərbərliyə çağırılıb. Təlimlər keçdikdən sonra sentyabr ayının 27-də başlanan Vətən müharibəsində, işğal altında qalan torpaqlarımızın azad olunması uğrunda aparılan savaşda, ön cəbhədə düşmənə qarşı döyüşlərdə iştirak edib. Suqovuşanın azad olunması uğrundakı döyüşlərdə qəhrəmanlıqlar göstərib. 2020-ci il oktyabr ayının 18-də şəhid olub. Mingəçevir Şəhidlər Xiyabanında dəfn olunub. Evli idi, iki qızı var. Azərbaycan Respublikasının prezidenti İlham Əliyevin 15 dekabr 2020-ci il tarixli sərəncamı ilə Azərbaycanın ərazi bütövlüyünün təmin edilməsi uğrunda döyüş əməliyyatlarına qatılan və hərbi hissə qarşısında qoyulmuş tapşırıqların icrası zamanı vəzifə borcunu şərəflə yerinə yetirdiyi üçün Emin Rüstəmzadə (ölümündən sonra) “Vətən uğrunda” medalı ilə təltif edilib."
+  },
+  {
+    "id": 43,
+    "name": "Məmmədov Rüstəm İbrahim oğlu",
+    "initials": "MR",
+    "birthDate": "10.08.1998",
+    "deathDate": "17.10.2020",
+    "image": "assets/images/heroes/M__mm__dov_R__st__m.jpg",
+    "mduGraduate": false,
+    "badge": null,
+    "awards": [
+      "Vətən uğrunda",
+      "Suqovuşanın azad olunmasına görə"
+    ],
+    "biography": "Məmmədov Rüstəm İbrahim oğlu 10 avqust 1998-ci ildə Göyçay rayonunda anadan olub. Xaldanda nənəsinin yanında qaldığı üçün Xaldan kənd məktəbini bitirib. 2016-cı ilin oktyabrından 2017-ci ilin 12 aprelinədək Sumqayıtda yerləşən “N” saylı hərbi hissədə müddətli həqiqi hərbi xidmətdə olub. Sonradan anası, bacısı ilə Mingəçevirdə yaşayan Rüstəm müxtəlif yerlərdə işləyib. Azərbaycan Ordusunun ehtiyatda olan əsgəri kimi 2020-ci il sentyabr ayının 8-də müddətdən artıq hərbi xidmət qulluqçusu kimi fəaliyyətə başlayıb. Vətən müharibəsinin ilk günlərindən torpaqlarımızın işğaldan azad olunması uğrunda gedən döyüşlərdə iştirak edib. 2020-ci il oktyabrın 17-də Suqovuşanın azad olunması uğrunda gedən döyüşlərdə qəhrəmanlıqla şəhid olub. Nəşi neytral ərazidə qaldığı üçün 2020-ci il noyabr ayının 22-də Mingəçevir Şəhidlər Xiyabanında dəfn olunub. Subay idi. Azərbaycan Respublikasının prezidenti İlham Əliyevin 15 dekabr 2020-ci il tarixli sərəncamı ilə Azərbaycanın ərazi bütövlüyünün təmin edilməsi uğrunda döyüş əməliyyatlarına qatılan və hərbi hissə qarşısında qoyulmuş tapşırıqların icrası zamanı vəzifə borcunu şərəflə yerinə yetirdiyi üçün Rüstəm Məmmədov (ölümündən sonra) “Vətən uğrunda” medalı ilə təltif edilib. Azərbaycan Respublikasının prezidenti İlham Əliyevin 29 dekabr 2020-ci il tarixli sərəncamı ilə Azərbaycan Respublikasının Suqovuşan kəndinin işğaldan azad edilməsi uğrunda aparılmış döyüş əməliyyatlarında iştirak edərək igidlik və mərdlik nümunəsi göstərmiş Rüstəm Məmmədov (ölümündən sonra) “Suqovuşanın azad olunmasına görə” medalı ilə təltif edilib."
+  },
+  {
+    "id": 44,
+    "name": "Cəfərli Ruslan Nəcəf oğlu",
+    "initials": "CR",
+    "birthDate": "25.05.1995",
+    "deathDate": "13.10.2020",
+    "image": "assets/images/heroes/C__f__rli_Ruslan.jpg",
+    "mduGraduate": false,
+    "badge": null,
+    "awards": [
+      "Vətən uğrunda"
+    ],
+    "biography": "Cəfərli Ruslan Nəcəf oğlu 25 may 1995-ci ildə Mingəçevir şəhərində anadan olub. 4 nömrəli orta məktəbdə oxuyub. 2014-15-ci illərdə Azərbaycanın Gədəbəy bölgəsində müddətli həqiqi hərbi xidmətdə olub. Müxtəlif yerlərdə işləyib. 2020-ci il sentyabr ayının 21-də Azərbaycan Ordusunun ehtiyatda olan əsgəri kimi səfərbərliyə çağırılıb. Cəbhə bölgəsində təlimlər keçdikdən sonra Vətən müharibəsinin ilk günlərindən döyüşlərə qatılıb. Düşmənə qarşı rəşadətlə döyüşüb. 2020-ci il oktyabr ayının 13-də Ağdərə istiqamətində torpaqlarımızın azad olunması uğrundakı döyüşlərdə qəhrəmanlıqla şəhid olub. Şəhidin nəşi 1 ay 10 gün neytral ərazidə qalıb. Noyabrın 21-də Mingəçevir Şəhidlər Xiyabanında dəfn olunub. Subay idi. Azərbaycan Respublikasının prezidenti İlham Əliyevin 15 dekabr 2020-ci il tarixli sərəncamı ilə Azərbaycanın ərazi bütövlüyünün təmin edilməsi uğrunda döyüş əməliyyatlarına qatılan və hərbi hissə qarşısında qoyulmuş tapşırıqların icrası zamanı vəzifə borcunu şərəflə yerinə yetirdiyi üçün Ruslan Cəfərli (ölümündən sonra) “Vətən uğrunda” medalı ilə təltif edilib."
+  },
+  {
+    "id": 45,
+    "name": "Qurbanov Tərxan Zabit oğlu",
+    "initials": "QT",
+    "birthDate": "29.06.1996",
+    "deathDate": "06.11.2020",
+    "image": "assets/images/heroes/Qurbanov_T__rxan.jpg",
+    "mduGraduate": false,
+    "badge": null,
+    "awards": [
+      "Vətən uğrunda",
+      "Xocavəndin azad olunmasına görə"
+    ],
+    "biography": "Qurbanov Tərxan Zabit oğlu 29 iyun 1996-cı ildə Şəki rayonunun Kiçik Dəhnə kəndində anadan olub. 2004-2015-ci illərdə Mingəçevir şəhərində 3 nömrəli orta məktəbdə rus bölməsində oxuyub. 2015-ci ildə Bakı Dövlət Universitetinin biologiya fakültəsinə daxil olub. 2019-cu ildə ali təhsilini başa vurub. İyul ayının 5 də müddətli həqiqi hərbi xidnmətə yola düşüb. Xidmət dövründə tibb işçisi kimi fəaliyyət göstərib, sertifikat alıb. Azərbaycanın ərazi bütövlüyünü pozaraq torpaqlarımızı işğal altında saxlayan erməni hərbçilərinin 2020-ci il sentyabr ayının 27-də növbəti silahlı hücumlarına Azərbaycan Ordusu adekvat cavab vermiş, elə həmin gün Vətən müharibəsi başlamışdır. Vətən müharibəsinin ilk günlərindən torpaqlarımızın azad olunması uğrundakı döyüşlərdə Tərxan da ön cəbhədə düşmənə qarşı rəşadətlə döyüşüb. 2020-ci il noyabr ayının 6-da Xocavəndin azad olunması uğrundakı döyüşlərdə qəhrəmanlıqla şəhid olub. Noyabrın 25-də Mingəçevir Şəhidlər Xiyabanında dəfn olunub. Azərbaycan Respublikasının prezidenti İlham Əliyevin 15 dekabr 2020-ci il tarixli sərəncamı ilə Azərbaycanın ərazi bütövlüyünün təmin edilməsi uğrunda döyüş əməliyyatlarına qatılan və hərbi hissə qarşısında qoyulmuş tapşırıqların icrası zamanı vəzifə borcunu şərəflə yerinə yetirdiyi üçün Tərxan Qurbanov (ölümündən sonra) “Vətən uğrunda” medalı ilə təltif edilib. Azərbaycan Respublikasının prezidenti İlham Əliyevin 25 dekabr 2020-ci il tarixli sərəncamına əsasən Azərbaycan Respublikasının Xocavənd rayonunun işğaldan azad edilməsi uğrunda aparılmış döyüş əməliyyatlarında iştirak edərək şəxsi igidlik və şücaət nümayiş etdirmiş Azərbaycan Respubilkası Silahlı Qüvvələrinin hərbi qulluqçusu Tərxan Qurbanov (ölümündən sonra) “Xocavəndin azad olunmasına görə” medalı ilə təltif olunub."
+  },
+  {
+    "id": 46,
+    "name": "Cüməzadə Təbriz İldırım oğlu",
+    "initials": "CT",
+    "birthDate": "02.02.2000",
+    "deathDate": "08.11.2020",
+    "image": "assets/images/heroes/C__m__zad___T__briz.jpg",
+    "mduGraduate": false,
+    "badge": null,
+    "awards": [
+      "Vətən uğrunda",
+      "Şuşanın azad olunmasına görə",
+      "Cəsur döyüşçü"
+    ],
+    "biography": "Cüməzadə Təbriz İldırım oğlu 2 fevral 2000-ci ildə Oğuz rayonunun Xaçmaz kəndində anadan olub. Ailə elə həmin illərdə Mingəçevirə köçüb. 2006-2017-ci illərdə İlqar Zeynalov adına 2 nömrəli orta məktəbdə təhsil alıb. 2018-ci il aprelin 12-də həqiqi hərbi xidmətə yola düşüb. Bakı şəhərində təlim-tədris mərkəzində xidmətdə olub. 2019-cu il oktyabrın 12-də xidmətini başa vuraraq Mingəçevirə qayıdıb. 2020-ci il sentyabr ayının 19-da Azərbaycan Ordusunun ehtiyatda olan əsgəri kimi səfərbərliyə çağırılıb. Oğuz rayonunda qeydiyyatda olduğu üçün atası onu Oğuza aparıb, səhər saat 6.00-da torpaqlarımızın azad olunması uğrundakı döyüşlərə yola düşüb. Füzuli, Cəbrayıl, Xocavəndin azad olunması uğrunda gedən döyüşlərdə iştirak edb. 2020-ci il noyabr ayının 8-də Şuşanın azad olunması uğrunda aparılan döyüşlərdə qəhrəmanlıqla şəhid olub. 17 günlük axtarışdan sonra şəhidin nəşi tapılıb. 2020-ci il noyabr ayının 26-da Mingəçevir Şəhidlər Xiyabanında dəfn olunub. Subay idi. Azərbaycan Respublikasının prezidenti İlham Əliyevin 15 dekabr 2020-ci il tarixli sərəncamı ilə Azərbaycanın ərazi bütövlüyünün təmin edilməsi uğrunda döyüş əməliyyatlarına qatılan və hərbi hissə qarşısında qoyulmuş tapşırıqların icrası zamanı vəzifə borcunu şərəflə yerinə yetirdiyi üçün Təbriz Cüməzadə (ölümündən sonra) “Vətən uğrunda” medalı ilə təltif edilib. Azərbaycan Respublikasının Prezidenti İlham Əliyevin 29 dekabr 2020-ci il tarixli sərəncamı ilə Şuşa şəhərinin işğaldan azad edilməsi uğrunda aparılmış döyüş əməliyyatlarında iştirak edərək şəxsi igidlik və şücaət nümayiş etdirmiş Təbriz Cüməzadə (ölümündən sonra) “Şuşanın azad olunmasına görə” medalı ilə təltif edilib. Azərbaycan Respublikasının Prezidenti İlham Əliyevin 18 dekabr 2020-ci il tarixli sərəncamına əsasən Azərbaycan Respublikası ərazilərinin işğaldan azad olunması zamanı döyüş tapşırıqlarını uğurla yerinə yetirmiş, düşmənin əsas qruplaşmalarını və texnikasını məhv etməklə qoşunlarımızın döyüş qabiliyyətinin qorunub saxlanılmasında fərqlənmiş Azərbaycan Respublikası Silahlı Qüvvələrinin hərbi qulluqçusu Təbriz Cüməzadə (ölümündən sonra) “Cəsur döyüşçü” medalı ilə təltif edilib."
+  },
+  {
+    "id": 47,
+    "name": "Ağakişiyev İlkin Elxan oğlu",
+    "initials": "Aİ",
+    "birthDate": "17.09.1995",
+    "deathDate": "03.10.2020",
+    "image": "assets/images/heroes/A__aki__iyev___lkin.jpg",
+    "mduGraduate": false,
+    "badge": null,
+    "awards": [
+      "Vətən uğrunda",
+      "Suqovuşanın azad olunmasına görə"
+    ],
+    "biography": "Ağakişiyev İlkin Elxan oğlu 17 sentyabr 1995-ci ildə Mingəçevir şəhərində anadan olub. 10 nömrəli orta məktəbdə on birinci sinfi bitirdikdən sonra təhsil alıb. 2013-2017-ci illərdə Bakı şəhərində Əmək və Sosial Münasibətlər Akademiyasında təhsil alıb. 2017-2018-ci illərdə Azərbaycanın Gədəbəy bölgəsində həqiqi hərbi xidmətdə olub. Xidməti başa vurub qayıtdıqdan sonra “AzərMed” QSC firmasında menecer kimi fəaliyyətə başlayıb. 2020-ci il sentyabrın 21-də Azərbaycan Ordusunun ehtiyatda olan əsgəri kimi səfərbərliyə çağırılıb. Göranboy rayonunun Ballı Qaya kəndində təlim keçdikdən sonra sentyabrın 27-də başlanan ikinci Qarabağ müharibəsində iştirak edib. Uzun illər Azərbaycan torpaqlarını işğal altında saxlayan erməni şovinistləri həmin gün Azərbaycanın sərhəd bölgələrini bir neçə istiqamətdən atəşə tutmuş, Azərbaycan Ordusu bu hücumları qətiyyətlə susdurmaqla Vətən müharibəsinə başlamışdır. Suqovuşanın azad edilməsi uğrunda döyüşlərdə qəhrəmanlıqlar göstərib. Valideynləri ilə son telefon danışığı sentyabr ayının 30-da olub. 2020-ci il oktyabr ayının 3-də Suquvuşanın azad olunması uğrunda gedən döyüşlərdə düşmən gülləsinə tuş gəlib, şəhidlik zirvəsinə yüksəlib. Şəhidin nəşi 57 gün neytral ərazidə qaldığı üçün 2020-ci il noyabrın 27-də Mingəçevir Şəhidlər Xiyabanında dəfn olunub. Subay idi. Azərbaycvan Respublikasının prezidenti İlham Əliyevin 15 dekabr 2020-ci il tarixli sərəncamı ilə Azərbaycanın ərazi bütövlüyünün təmin edilməsi uğrunda döyüş əməliyyatlarına qatılan və hərbi hissə qarşısında qoyulmuş tapşırıqların icrası zamanı vəzifə borcunu şərəflə yerinə yetirdiyi üçün İlkin Ağakişiyev (ölümündən sonra) “Vətən uğrunda” medalı ilə təltif edilib. Azərbaycan Respublikasının prezidenti İlham Əliyevin 29 dekabr 2020-ci il tarixli sərəncamı ilə Azərbaycan Respublikasının Suqovuşan kəndinin işğaldan azad edilməsi uğrunda aparılmış döyüş əməliyyatlarında iştirak edərək igidlik və mərdlik nümunəsi göstərmiş İlkin Ağakişiyev (ölümündən sonra) “Suqovuşanın azad olunmasına görə” medalı ilə təltif edilib."
+  },
+  {
+    "id": 48,
+    "name": "Məmmədli Məhəmməd Murad oğlu",
+    "initials": "MM",
+    "birthDate": "23.08.1994",
+    "deathDate": "02.10.2020",
+    "image": "assets/images/heroes/M__mm__dli_M__h__mm__d.jpg",
+    "mduGraduate": false,
+    "badge": null,
+    "awards": [
+      "Vətən uğrunda",
+      "Suqovuşanın azad olunmasına görə"
+    ],
+    "biography": "Məmmədli Məhəmməd Murad oğlu 23 avqust 1994-cü ildə Mingçevirdə anadan olub. Uşaqlıqda ailə üzvləri Rusiyanın Volqoqrad şəhərində yaşadığı üçün beşinci sinfə kimi ibtidai təhsilini həmin şəhərdə alıb. Sonra ailə Mingəçevirə qayıdıb. 18 nömrəli orta məktəbdə təhsilini rus bölməsində davam etdirib. 2012-2014-cü illərdə Ağstafanın Soyuq Bulaq bölgəsində həqiqi hərbi xidmətdə olub. Xidməti başa vurub qayıtdıqdan sonra müxtəlif yerlərdə işləyib. Son iş yeri “Səməni” oteli olub. 2020-ci il sentyabr ayının 21-də Azərbaycan Ordusunun ehtiyatda olan əsgəri kimi səfərbərliyə çağırılıb. Göranboyun Ballı Qaya kəndində təlim keçdikdən sonra sentyabr ayının 27-də başlanan ikinci Qarabağ müharibəsində iştirak edib. Suqovuşanın azad edilməsi uğrunda döyüşlərdə qəhrəmanlıqlar göstərib. Anası, əzizləri ilə son danışığı ayın 30-da olub. 2020-ci il oktyabr ayının 2-də həmin istiqamətdə gedən döyüşlərdə düşmən gülləsinə tuş gəlib, şəhidlik zirvəsinə yüksəlib. Şəhidin nəşi neytral ərazidə qaldığından 2020-ci il dekabrın 1-də Mingəçevir Şəhidlər Xiyabanında dəfn olunub. Azərbaycvan Respublikasının prezidenti İlham Əliyevin15 dekabr 2020-ci il tarixli sərəncamı ilə Azərbaycanın ərazi bütövlüyünün təmin edilməsi uğrunda döyüş əməliyyatlarına qatılan və hərbi hissə qarşısında qoyulmuş tapşırıqların icrası zamanı vəzifə borcunu şərəflə yerinə yetirdiyi üçün Məhəmməd Məmmədli (ölümündən sonra) “Vətən uğrunda” medalı ilə təltif edilib. Azərbaycan Respublikasının prezidenti İlham Əliyevin 29 dekabr 2020-ci il tarixli sərəncamı ilə Azərbaycan Respublikasının Suqovuşan kəndinin işğaldan azad edilməsi uğrunda aparılmış döyüş əməliyyatlarında iştirak edərək igidlik və mərdlik nümunəsi göstərmiş Məhəmməd Məmmədli (ölümündən sonra) “Suqovuşanın azad olunmasına görə” medalı ilə təltif edilib. Evli idi. Məhəmməd Məmmədlinin yeganə qız övladı ölümündən sonra, 2021-ci il yanvarın 30-da dünyaya gəlib. Fatimə adlı körpə böyüyərək şəhidin yurduna işıq salacaq."
+  },
+  {
+    "id": 49,
+    "name": "Allahverənov Telman Fazil oğlu",
+    "initials": "AT",
+    "birthDate": "07.07.1995",
+    "deathDate": "02.10.2020",
+    "image": "assets/images/heroes/Allahver__nov_Telman.jpg",
+    "mduGraduate": false,
+    "badge": null,
+    "awards": [
+      "Vətən uğrunda",
+      "Suqovuşanın azad olunmasına görə"
+    ],
+    "biography": "Allahverənov Telman Fazil oğlu 7 iyul 1995-ci ildə Mingəçevir şəhərində anadan olub. 1 nömrəli orta məktəbi bitirdikdən sonra bir müddət işsiz qalıb. 2013-2015-ci illərdə həqiqi hərbi xidmətdə olub. Bakı şəhərində Prişkül hərbi hissəsində tankçı kimi yetişib, nümunəvi xidmətinə görə rəhbərliyin və yoldaşlarının hörmətini qazanıb. Xidmətdən qayıtdıqdan sonra Mingəçevirdə müxtəlif kiçik müəssisələrdə, sonradan “Veysəloğlu” şirkətində işləyib. 2020-ci il sentyabr ayının 21-də Azərbaycan Ordusunun ehtiyatda olan əsgəri kimi səfərbərliyə çağırılıb. Elə gecəyarıısı Ballı Qayaya çatıblar. Təlimlərdən sonra sentyabr ayının 27-də başlanan ikinci Qarabağ müharibəsində düşmənə qarşı rəşadətlə döyüşməyə başlayıb. Azərbaycan Ordusunun əsgəri kimi düşmən hücumlarına adekvat cavablar verilməsində fəallıq göstərib. Düşmən tərəfindən atılan snayper və raketlər onu qorxutmur, torpaqlarımızın azad olunması üçün gecə-gündüz ayıq sayıq olub. 2020-ci il oktyabr ayının 1-dən 2-nə keçən gecə Suqovuşanın azad olunması uğrundakı döyüşlərdə yaralanaraq həlak olub, şəhidlik zirvəsinə yüksəlib. Şəhidin nəşi uzun müddət neytral ərazidə qalmış, 2020-ci il dekabr ayının 4-də Mingəçevir Şəhidlər Xiyabanında dəfn olunmuşdur. Subay idi. Azərbaycan Respublikasının prezidenti İlham Əliyevin 15 dekabr 2020-ci il tarixli sərəncamı ilə Azərbaycanın ərazi bütövlüyünün təmin edilməsi uğrunda döyüş əməliyyatlarına qatılan və hərbi hissə qarşısında qoyulmuş tapşırıqların icrası zamanı vəzifə borcunu şərəflə yerinə yetirdiyi üçün Telman Allahverənov (ölümündən sonra) “Vətən uğrunda” medalı ilə təltif edilib. Azərbaycan Respublikasının prezidenti İlham Əliyevin 29 dekabr 2020-ci il tarixli sərəncamı ilə Azərbaycan Respublikasının Suqovuşan kəndinin işğaldan azad edilməsi uğrunda aparılmış döyüş əməliyyatlarında iştirak edərək igidlik və mərdlik nümunəsi göstərmiş Telman Allahverənov (ölümündən sonra) “Suqovuşanın azad olunmasına görə” medalı ilə təltif edilib."
+  },
+  {
+    "id": 50,
+    "name": "Osmanov Ərzuman Kamran oğlu",
+    "initials": "OƏ",
+    "birthDate": "25.12.1990",
+    "deathDate": "2020",
+    "image": "assets/images/heroes/Osmanov___rzuman.jpg",
+    "mduGraduate": false,
+    "badge": null,
+    "awards": [
+      "Vətən uğrunda",
+      "Suqovuşanın azad olunmasına görə"
+    ],
+    "biography": "Osmanov Ərzuman Kamran oğlu 25 dekabr 1990-cı ildə Ağdaş rayonunun Ləki kəndində anadan olub. Atasının işi ilə əlaqədar ailə Mingəçevirə köçüb. 1997-2008-ci illərdə energetiklər qəsəbəsindəki Nizami Gəncəvi adına 8 nömrəli orta məktəbdə oxuyub. 2009-cu ildə həqiqi hərbi xidmətə yola düşüb. Bakı şəhərində Pirişkül qəsəbəsində yerləşən hərbi hissədə qulluq edib. 2011-ci ildə xidmətini ləyaqətlə başa vuraraq tərxis olunub. 2020-ci il sentyabr ayının 21-də Azərbaycan Ordusunun ehtiyatda olan əsgəri kimi səfərbərliyə çağırılıb. Elə həmin gündən müharibə başlayanadək vətən müdafiəçiləri Goranboy rayonunda Ballı Qaya yaxınlığında təlimlər keçməyə başlayıblar. Sentyabr ayının 27-də Vətən müharibəsinin ilk günündə Suqovuşan istiqamətindəki döyüşlərdə iştirak edib. Ağdərənin Ağ uçuq yüksəkliyinin azad olunması uğrundakı döyüşlərdə düşmənə qarşı şücaətlə döyüşərkən yaralanmış, şəhid olmuşdur. Şəhid qəhrəmanın nəşi neytral ərazidə qaldığı üçün 71 gündən sonra, 2020-ci il dekabr ayının 10-da Mingəçevir Şəhidlər Xiyabanında dəfn olunub. Subay idi. Azərbaycan Respublikasının prezidenti İlham Əliyevin15 dekabr 2020-ci il tarixli sərəncamı ilə Azərbaycanın ərazi bütövlüyünün təmin edilməsi uğrunda döyüş əməliyyatlarına qatılan və hərbi hissə qarşısında qoyulmuş tapşırıqların icrası zamanı vəzifə borcunu şərəflə yerinə yetirdiyi üçün Ərzuman Osmanov (ölümündən sonra) “Vətən uğrunda” medalı ilə təltif edilib. Azərbaycan Respublikasının prezidenti İlham Əliyevin 29 dekabr 2020-ci il tarixli sərəncamı ilə Azərbaycan Respublikasının Suqovuşan kəndinin işğaldan azad edilməsi uğrunda aparılmış döyüş əməliyyatlarında iştirak edərək igidlik və mərdlik nümunəsi göstərmiş Ərzuman Osmanov (ölümündən sonra) “Suqovuşanın azad olunmasına görə” medalı ilə təltif edilib."
+  },
+  {
+    "id": 51,
+    "name": "Tağıyev Pərviz Hafiz oğlu",
+    "initials": "TP",
+    "birthDate": "22.03.1990",
+    "deathDate": "2020",
+    "image": "assets/images/heroes/Ta____yev_P__rviz.jpg",
+    "mduGraduate": false,
+    "badge": null,
+    "awards": [],
+    "biography": "Tağıyev Pərviz Hafiz oğlu 22 mart 1990-cı ildə Minəçevirdə anadan olub. 1 və 3 nömrəli orta məktəblərdə təhsil alıb. Doqquzuncu sinfi bitirdikdən sonra peşə öyrənmək marağı ilə müstəqil həyatda ləyaqətli insan olmaq üçün ayrı-ayrı yerlərdə fəaliyyət göstərib. 2008-2010-cu illərdə Naxçıvanda həqiqi hərbi xidmətdə olub. Xidməti başa vurub qayıtdıqadan sonra 5 il Kür Avarçəkmə tədris idman mərkəzində mühafizə xidməti sahəsində işləyib. 2013-cü ildə Müddətdən artıq hərbi qulluqçu kimi Azərbaycan Ordusunda fəaliyyətə başlayıb. Goranboy, Ağcakənd bölgələrində çalışan çavuş xüsusi təyinatlıların kəşfiyyatçısı kimi nümunəvi xidməti ilə özünə hörmət qazanıb. 2016-cı ilin aprel döyüşlərində qəhrəmanlıqlar göstərərək düşmənə qarşı şücaətlə döyüşüb, sertifikatlar, təşəkkürnamələr alıb. O, həmçinin hərbi sahədə yoldaşlarının yetişməsində, fiziki sağlamlıqları, idmanın vacib növləri ilə məşğul olmaları üçün böyük xidmətlər göstərib. 2020-ci ili sentyabr ayının ortalarında Mingəçevirə evlərinə gəlib, ayın 26-da yenidən xidmətə, cəbhə bölgəsinə yola düşüb. İkinci Qarabağ mühaibəsinin ilk günlərindən düşmənə qarşı şücaətlə döyüşüb. Torpaqlarımızın azad olunması, Murovdağ uğrundakı döyüşlərdə qəhrəmanlıqlar göstərib. Valideynləri ilə son danışığı sentyabr ayının 30-da olub. O gündən bəri hələ Pərvizdən xəbər yox idi. 2021-ci il may ayının 5-də, 7 ay 5 gündən sonra şəhidin nəşi tapılıb. Mingəçevir Şəhidlər Xiyabanında dəfn olunub. Subay idi. Azərbaycan Respublikasınln prezidenti İlham Əliyevin 24 iyun 2021- ci ildə imzaladığı sərəncamlara əsasən Azərbaycan Respublikası Silahlı Qüvvələrinin hərbi qulluqçusu Tağıyev Pərviz Hafiz oğlu (ölümündən sonra) Azərbaycan Respublikasının ərazi bütövlüyünün təmin edilməsi uğrunda döyüş əməliyyatlarınıda iştirak etdiyinə və hərbi hissə qarşısında qoyulmuş tapşırıqların icrası zamanı vəzifə borcunu şərəflə yerinə yetirdiyinə görə"
+  }
+]

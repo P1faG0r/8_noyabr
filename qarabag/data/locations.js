@@ -1,0 +1,164 @@
+/* Xəritə nöqtələri. Koordinatlar təxminidir. cat: şəhər | qəsəbə | kənd | strateji | körpü */
+window.QARABAG = window.QARABAG || {};
+window.QARABAG.locations = [
+ {
+  "name": "Suqovuşan",
+  "district": "Tərtər",
+  "date": "2020-10-03",
+  "cat": "qəsəbə",
+  "lat": 40.323309,
+  "lng": 46.737682,
+  "period": "44_gunluk_muharibe",
+  "desc": "Suqovuşan qəsəbəsi 3 oktyabr 2020-ci ildə azad edildi."
+ },
+ {
+  "name": "Cəbrayıl",
+  "district": "Cəbrayıl",
+  "date": "2020-10-04",
+  "cat": "şəhər",
+  "lat": 39.39917,
+  "lng": 47.02835,
+  "period": "44_gunluk_muharibe",
+  "desc": "Cəbrayıl şəhəri 4 oktyabr 2020-ci ildə azad edildi."
+ },
+ {
+  "name": "Hadrut",
+  "district": "Xocavənd",
+  "date": "2020-10-09",
+  "cat": "qəsəbə",
+  "lat": 39.520027,
+  "lng": 47.031904,
+  "period": "44_gunluk_muharibe",
+  "desc": "Hadrut qəsəbəsinin azad edilməsi 9 oktyabr 2020-ci ildə elan edildi."
+ },
+ {
+  "name": "Füzuli",
+  "district": "Füzuli",
+  "date": "2020-10-17",
+  "cat": "şəhər",
+  "lat": 39.60094,
+  "lng": 47.14529,
+  "period": "44_gunluk_muharibe",
+  "desc": "Füzuli şəhəri 17 oktyabr 2020-ci ildə azad edildi."
+ },
+ {
+  "name": "Zəngilan",
+  "district": "Zəngilan",
+  "date": "2020-10-20",
+  "cat": "şəhər",
+  "lat": 39.0856,
+  "lng": 46.6525,
+  "period": "44_gunluk_muharibe",
+  "desc": "Zəngilan şəhəri 20 oktyabr 2020-ci ildə azad edildi."
+ },
+ {
+  "name": "Qubadlı",
+  "district": "Qubadlı",
+  "date": "2020-10-25",
+  "cat": "şəhər",
+  "lat": 39.34441,
+  "lng": 46.58183,
+  "period": "44_gunluk_muharibe",
+  "desc": "Qubadlı şəhəri 25 oktyabr 2020-ci ildə azad edildi."
+ },
+ {
+  "name": "Şuşa",
+  "district": "Şuşa",
+  "date": "2020-11-08",
+  "cat": "strateji",
+  "lat": 39.76006,
+  "lng": 46.74989,
+  "period": "44_gunluk_muharibe",
+  "desc": "Şuşa şəhəri 8 noyabr 2020-ci ildə azad edildi. Bu tarixi hadisə Zəfər Gününün əsas rəmzidir."
+ },
+ {
+  "name": "Ağdam",
+  "district": "Ağdam",
+  "date": "2020-11-20",
+  "cat": "şəhər",
+  "lat": 39.99096,
+  "lng": 46.92736,
+  "period": "ucterefli_beyanname",
+  "desc": "Ağdam rayonu 20 noyabr 2020-ci ildə üçtərəfli bəyanata əsasən Azərbaycana qaytarıldı."
+ },
+ {
+  "name": "Kəlbəcər",
+  "district": "Kəlbəcər",
+  "date": "2020-11-25",
+  "cat": "şəhər",
+  "lat": 40.10667,
+  "lng": 46.03833,
+  "period": "ucterefli_beyanname",
+  "desc": "Kəlbəcər rayonu 25 noyabr 2020-ci ildə üçtərəfli bəyanata əsasən Azərbaycana qaytarıldı."
+ },
+ {
+  "name": "Laçın",
+  "district": "Laçın",
+  "date": "2022-08-26",
+  "cat": "şəhər",
+  "lat": 39.64083,
+  "lng": 46.54694,
+  "period": "sonrakı_qaytarilma",
+  "desc": "Laçın şəhəri 26 avqust 2022-ci ildə Azərbaycanın nəzarətinə qaytarıldı. Laçın rayonu isə 1 dekabr 2020-ci ildə təhvil verilmişdi."
+ },
+ {
+  "name": "Zabux",
+  "district": "Laçın",
+  "date": "2022-08-26",
+  "cat": "kənd",
+  "lat": 39.59106,
+  "lng": 46.54301,
+  "period": "sonrakı_qaytarilma",
+  "desc": "Zabux kəndi 26 avqust 2022-ci ildə Azərbaycanın nəzarətinə qaytarıldı."
+ },
+ {
+  "name": "Sus",
+  "district": "Laçın",
+  "date": "2022-08-26",
+  "cat": "kənd",
+  "lat": 39.62444,
+  "lng": 46.513889,
+  "period": "sonrakı_qaytarilma",
+  "desc": "Sus kəndi 26 avqust 2022-ci ildə Azərbaycanın nəzarətinə qaytarıldı."
+ },
+ {
+  "name": "Xocavənd",
+  "district": "Xocavənd",
+  "date": "2023-09-20",
+  "cat": "şəhər",
+  "lat": 39.79496,
+  "lng": 47.1117,
+  "period": "antiterror_2023",
+  "desc": "2023-cü ilin 19-20 sentyabr tarixlərində həyata keçirilən lokal xarakterli antiterror tədbirlərindən sonra Azərbaycanın suveren nəzarəti bərpa edildi."
+ },
+ {
+  "name": "Ağdərə",
+  "district": "Ağdərə",
+  "date": "2023-09-20",
+  "cat": "şəhər",
+  "lat": 40.21127,
+  "lng": 46.82135,
+  "period": "antiterror_2023",
+  "desc": "Ağdərə şəhərində 2023-cü ilin sentyabrında keçirilən lokal xarakterli antiterror tədbirlərindən sonra Azərbaycanın suveren nəzarəti bərpa edildi."
+ },
+ {
+  "name": "Xocalı",
+  "district": "Xocalı",
+  "date": "2023-09-24",
+  "cat": "şəhər",
+  "lat": 39.9097,
+  "lng": 46.79439,
+  "period": "antiterror_2023",
+  "desc": "Xocalı şəhərində Azərbaycanın suveren nəzarəti 24 sentyabr 2023-cü ildə bərpa edildi."
+ },
+ {
+  "name": "Xankəndi",
+  "district": "Xankəndi",
+  "date": "2023-09-29",
+  "cat": "şəhər",
+  "lat": 39.8177,
+  "lng": 46.7528,
+  "period": "antiterror_2023",
+  "desc": "Xankəndi şəhərində Azərbaycanın suveren nəzarəti 29 sentyabr 2023-cü ildə bərpa edildi."
+ }
+];

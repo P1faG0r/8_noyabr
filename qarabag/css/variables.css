@@ -1,0 +1,25 @@
+/* ===== Rəng və şrift dəyişənləri — dizaynı buradan dəyişin ===== */
+/* ===== Rəng və şrift dəyişənləri — dizaynı buradan dəyişin ===== */
+:root{
+  --navy:#17365d;        /* əsas tünd (yumşaldılmış) */
+  --navy-rgb:23,54,93;   /* şəffaf qatlar üçün */
+  --blue:#1a8aae;        /* Azərbaycan mavisi */
+  --red:#c2374b;         /* Azərbaycan qırmızısı */
+  --green:#3a8a58;       /* Azərbaycan yaşılı */
+  --ivory:#f6f1e4;       /* fon */
+  --gold:#a98a3c;        /* qızılı vurğu */
+  --gold-soft:#d9c288;   /* tünd fonda qızılı mətn */
+  --gold-tint:#f7efd8;   /* açıq qızılı fon */
+  --gold-hover:#f1e6c2;  /* hover */
+  --mist:#d3deec;        /* tünd fonda əsas mətn */
+  --mist-dim:#a3b4cc;    /* tünd fonda ikinci mətn */
+  --mist-bright:#e6edf7; /* tünd fonda parlaq mətn */
+  --graphite:#27323f;    /* əsas mətn */
+  --slate:#5f6e7e;       /* ikinci dərəcəli mətn */
+  --line:#e2d9c2;
+  --surface:#fffdf8;
+  --shadow:0 10px 30px -14px rgba(23,54,93,.3);
+  --radius:16px;
+  --serif:"Source Serif 4",Georgia,"Times New Roman",serif;
+  --sans:"Manrope",system-ui,-apple-system,"Segoe UI",Arial,sans-serif;
+}
